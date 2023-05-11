@@ -1,0 +1,248 @@
+section#banner {
+	width: 100%;
+	height: calc(100vh - 70px);
+	// height: 560px;
+	position: relative;	
+	.bgWrapper {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		left: 0;
+		top: 0;
+		z-index: -1;
+		transition: all 0.8s ease;
+		background-color: white;
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+		}
+		.hd, .fullhd{
+			display: none;
+		}
+		.mobile{
+			display: flex;
+		}
+		.tns-outer{
+			.tns-nav{
+				position: absolute;
+				bottom: 20px;
+				left: 50%;
+				transform: translateX(-50%);
+				z-index: 10;
+				display: flex;
+				gap: 10px;
+				button{
+					background-color: #0E3358;
+					box-shadow: 0px 3px 6px #00000029;
+					width: 10px;
+					height: 10px;
+					border-radius: 10px;
+					box-sizing: border-box;
+					outline: none;
+					border: none;
+					padding: 0;
+					&.tns-nav-active{
+						background-color: #FFFFFF;
+					}
+				}
+			}
+		}
+	}
+	.free-label{
+		position: absolute;
+		top: 187px;
+		left: 236px;
+		width: 123px;
+		height: auto;
+	}
+	.container{
+		width: 100%;
+		max-width: 1146px;
+		margin: 0 auto;
+		box-sizing: border-box;
+		padding: 0 30px 50px;
+		height: 100%;
+		display: flex;
+		align-items: flex-end;
+		.content-wrapper{
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			.title-wrapper{
+				width: 312px;
+				height: auto;
+				.banner-logo{
+					width: 100%;
+					height: auto;
+				}
+				.first-phrase{
+					text-align: center;
+					font-family: $fonte-padrao;
+					font-size: 29px;
+					line-height: 40px;
+					letter-spacing: 1.45px;
+					text-transform: uppercase;
+					color: #192957;
+					margin: 0;
+					padding: 0;
+					font-weight: 900;
+				}
+				.second-phrase{
+					text-align: center;
+					font-family: $fonte-padrao;
+					font-size: 29px;
+					line-height: 40px;
+					letter-spacing: 1.45px;
+					text-transform: uppercase;
+					color: #38b6ff;
+					margin: 0;
+					padding: 0;
+					font-weight: 900;
+				}
+			}
+			.text{
+				font-size: 18px;
+				line-height: 30px;
+				color: #000;
+				text-align: center;
+				font-family: $fonte-secundaria;
+				font-weight: 500;
+				margin: 15px 0 20px;
+				span{
+					color: #0E3358;
+					font-weight: 700;
+				}
+			}
+			.subscription-button{
+				display: flex;
+				width: 195px;
+				height: 46px;
+				background-color: #fff;
+				color: #192957;
+				justify-content: flex-start;
+				align-items: center;
+				padding: 0 25px;
+				box-shadow: 0 3px 0 #192957;
+				border-radius: 50px;
+				font-size: 16px;
+				font-family: Kanit,sans-serif;
+				font-weight: 700;
+				margin: 0 0 20px;
+				transition: all .3s ease-in-out;
+				box-sizing: border-box;
+				letter-spacing: 2px;
+				gap: 15px;
+				img {
+					height: 35px;
+					width: 35px;
+				}
+			}
+			.ministry-logo {
+				width: 312px;
+				height: auto;
+			}
+		}
+	}
+	
+	@media screen and (min-width: $mobile) {
+		height: calc(100vh - 107px);
+		max-height: 550px;
+		margin-top: 107px;
+		margin-bottom: 0;
+		padding-top: 20px;
+		box-sizing: border-box;
+		.bgWrapper{
+			height: 100%;
+			#tns1-mw, #tns1-iw {
+				height: 100%;
+			}
+			.mobile{
+				display: none;
+			}
+			.tns-outer {
+				// padding: 0!important;
+				height: 100%;
+			}
+			.hd{
+				display: flex;
+				height: 100%;
+				img{
+					width: 100vw;
+					height: 100%;
+					object-fit: cover;
+				}
+			}
+		}
+		.free-label{
+			width: 187px;
+			top: 42px;
+			left: 55px;
+		}
+		.container{
+			position: relative;
+			padding: 0;
+			height: 100%;
+			align-items: flex-start;
+			.content-wrapper{
+				margin: 0 0 96px 50px;
+				.title-wrapper{
+					width: 445px;
+					.banner-logo{
+						width: 445px;
+					}
+					.first-phrase{
+						font-size: 83px;
+						line-height: 85px;
+					}
+					.second-phrase{
+						font-size: 50px;
+						line-height: 69px;
+					}
+				}
+				.text{
+					max-width: 414px;
+					font-size: 24px;
+					line-height: 35px;
+					margin: 0 0 25px;
+				}
+				.subscription-button{
+					display: flex;
+					width: 195px;
+					height: 46px;
+					background-color: #fff;
+					color: #192957;
+					justify-content: flex-start;
+					align-items: center;
+					padding: 0 25px;
+					box-shadow: 0 3px 0 #192957;
+					border-radius: 50px;
+					font-size: 16px;
+					font-family: Kanit,sans-serif;
+					font-weight: 700;
+					margin: 20px 0;
+					transition: all .3s ease-in-out;
+					box-sizing: border-box;
+					letter-spacing: 2px;
+					gap: 15px;
+					img {
+						height: 35px;
+						width: 35px;
+					}
+					&:hover{
+						// background-color: #34628E;
+					}
+				}
+				.ministry-logo{
+					width: 541px;
+				}
+			}
+		}
+	}
+
+	@media screen and (min-width: $full-hd) {
+		height: 663px;
+		max-height: 640px;
+	}
+}
+
