@@ -41,6 +41,25 @@
 		})(window,document,'script','dataLayer','GTM-MSZJ2K');</script>
 	<!-- End Google Tag Manager -->
 </head>
+	
+	<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var ministryLogo = document.querySelector('.ministry-logo');
+	var bannerLogo = document.querySelector('.banner-logo');
+	var subscriptionButton = document.querySelector('.subscription-button');
+	  
+	if (subscriptionButton.getAttribute('href') === '') {
+		subscriptionButton.style.display = 'none';
+	}
+	if (bannerLogo.getAttribute('src') === '') {
+		bannerLogo.style.display = 'none';
+	}
+    if (ministryLogo.getAttribute('src') === '') {
+      ministryLogo.style.display = 'none';
+    }
+  });
+</script>
+	
 <body <?php body_class(); ?>>
 	<!-- Google Tag Manager (noscript) -->
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSZJ2K"
