@@ -67,5 +67,5 @@
 	<!-- End Google Tag Manager (noscript) -->
 	
 	<a href="https://api.whatsapp.com/send?phone=5511981349241" style="position:fixed; bottom:55px; right:55px; z-index: 1000;" target="_blank">
-		<img src="<?php echo $iconWhatsapp; ?>" style="width:60px; height:60px;"/>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" style="width:60px; height:60px;"/>
 	</a>
