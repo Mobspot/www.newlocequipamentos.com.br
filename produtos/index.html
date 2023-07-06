@@ -132,7 +132,54 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </div>
         
     </section>
+    <script>
+        fetch('produtos.json')
+            .then(response => response.json())
+            .then(data => {
+                const produtosLista = document.getElementById('sobreEvento');
+    
+                for (let i = 0; i< data.length; i += 2) {
+                    const prod1 = data[i];
+                    const prod2 = data[i + 1];
 
+                    const div1 = document.createElement('div');
+                    div1.classList.add('containerSobre');
+                    div1.innerHTML = "<div class='container'>" +
+                                            "<h1>"+prod1.produto+"</h1>" +
+                                            "<div class='sobre esquerda'>" +
+                                                "<div class='imgs-bg'>" +
+                                                    "<img>" +
+                                                    "<div class='boxLaranja'></div>" +
+                                                "</div>" +
+                                                "<div class='cardEvento'>" +
+                                                    "<p>"+prod1.descricao+"</p>"+
+                                                "</div>"+
+                                            "</div>"+
+                                        "</div>"
+
+                    const div2 = document.createElement('div');
+                    div2.classList.add('containerSobre');
+                    div2.classList.add('direita')
+                    div2.innerHTML = "<div class='container'>" +
+                                            "<h1>"+prod2.produto+"</h1>" +
+                                            "<div class='sobre'>" +
+                                                "<div class='imgs-bg'>" +
+                                                    "<img>" +
+                                                    "<div class='boxLaranja'></div>" +
+                                                "</div>" +
+                                                "<div class='cardEvento'>" +
+                                                    "<p>"+prod2.descricao+"</p>"+
+                                                "</div>"+
+                                            "</div>"+
+                                        "</div>"
+
+                    produtosLista.appendChild(div1);
+                    produtosLista.appendChild(div2);
+
+                }})
+            .catch(error => console.error(error));
+    
+    </script>
     <section id="sobreEvento">
 
 		<div class="containerSobre">
