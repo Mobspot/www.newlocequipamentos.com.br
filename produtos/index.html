@@ -45,6 +45,16 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 </head>
 <style>
+    .cardEvento p{
+        font-size: 1.2rem!important;
+        font-weight: 200!important;
+    }
+    .cardEsquerda p{
+        text-align: left!important;  
+    }
+    .cardDireita p{
+        text-align: right!important;
+    }
     @media screen and (min-width: 1024px){
         .imgs-bg img{
             object-fit: fill!important;
@@ -132,7 +142,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </div>
         
     </section>
+
     <script>
+        var url = "http://localhost/www.newlocequipamentos.com.br"
         fetch('produtos.json')
             .then(response => response.json())
             .then(data => {
@@ -148,10 +160,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                             "<h1>"+prod1.produto+"</h1>" +
                                             "<div class='sobre esquerda'>" +
                                                 "<div class='imgs-bg'>" +
-                                                    "<img>" +
+                                                    "<img src='"+url+"/wp-content/imagens/"+prod1.imagem+"'>" +
                                                     "<div class='boxLaranja'></div>" +
                                                 "</div>" +
-                                                "<div class='cardEvento'>" +
+                                                "<div class='cardEvento cardEsquerda'>" +
                                                     "<p>"+prod1.descricao+"</p>"+
                                                 "</div>"+
                                             "</div>"+
@@ -164,10 +176,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                             "<h1>"+prod2.produto+"</h1>" +
                                             "<div class='sobre'>" +
                                                 "<div class='imgs-bg'>" +
-                                                    "<img>" +
+                                                    "<img src='"+url+"/wp-content/imagens/"+prod2.imagem+"'>" +
                                                     "<div class='boxLaranja'></div>" +
                                                 "</div>" +
-                                                "<div class='cardEvento'>" +
+                                                "<div class='cardEvento cardDireita'>" +
                                                     "<p>"+prod2.descricao+"</p>"+
                                                 "</div>"+
                                             "</div>"+
@@ -181,332 +193,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     
     </script>
     <section id="sobreEvento">
-
-		<div class="containerSobre">
-            <div class="container">
-                <h1 class="hidden-xs">COMPRESSOR PNEUMÁTICO 92 PCM</h1>
-                <div class="sobre esquerda">
-                    <img src="../wp-content/uploads/2023/06/Compressor-Pneumatico-92-PCM.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/Compressor-Pneumatico-92-PCM.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">COMPRESSOR PNEUMÁTICO 92 PCM</h1>
-                        <span class="hidden-xs">O compressor pneumático 92 PCM é essencial para atividades que demandam ar comprimido, como enchimento de pneus, uso em ferramentas pneumáticas e pintura. Sua alta capacidade de fluxo de ar garante um desempenho eficiente em diversas aplicações, tornando-o indispensável para trabalhos profissionais e domésticos.</span>
-                        <p class="hidden-lg">O compressor pneumático 92 PCM é essencial para atividades que demandam ar comprimido, como enchimento de pneus, uso em ferramentas pneumáticas e pintura. Sua alta capacidade de fluxo de ar garante um desempenho eficiente em diversas aplicações, tornando-o indispensável para trabalhos profissionais e domésticos.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre direita">
-            <div class="container">
-                <h1 class="hidden-xs">MOTOR VIBRADOR A GASOLINA</h1>
-                <div class="sobre">
-                    <img src="../wp-content/uploads/2023/06/Motor-Vibrador-a-Gasolina.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/Motor-Vibrador-a-Gasolina.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">MOTOR VIBRADOR A GASOLINA</h1>
-                        <span class="hidden-xs">O Motor Vibrador a Gasolina é uma poderosa ferramenta utilizada na construção civil e na indústria de pavimentação. Com sua força e vibração intensa, é ideal para compactação de solos, preparação de terrenos e assentamento de concreto. Sua versatilidade e portabilidade o tornam indispensável para projetos de grande escala.</span>
-                        <p class="hidden-lg">O Motor Vibrador a Gasolina é uma poderosa ferramenta utilizada na construção civil e na indústria de pavimentação. Com sua força e vibração intensa, é ideal para compactação de solos, preparação de terrenos e assentamento de concreto. Sua versatilidade e portabilidade o tornam indispensável para projetos de grande escala.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-		<div class="containerSobre">
-            <div class="container">
-                <h1 class="hidden-xs">Compressor De Pintura 140Lbs</h1>
-                <div class="sobre esquerda">
-                    <img src="../wp-content/uploads/2023/06/Compressor-de-Pintura-140Lbs.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/Compressor-de-Pintura-140Lbs.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Compressor De Pintura 140Lbs</h1>
-                        <span class="hidden-xs">O Compressor de Pintura 140Lbs é perfeito para projetos de pintura profissionais e domésticos. Com sua alta pressão e capacidade de 140 libras, garante uma pulverização uniforme e eficiente. Ideal para pintura de superfícies maiores, proporciona resultados de qualidade e agilidade no processo de pintura.</span>
-                        <p class="hidden-lg">O Compressor de Pintura 140Lbs é perfeito para projetos de pintura profissionais e domésticos. Com sua alta pressão e capacidade de 140 libras, garante uma pulverização uniforme e eficiente. Ideal para pintura de superfícies maiores, proporciona resultados de qualidade e agilidade no processo de pintura.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre direita">
-            <div class="container">
-                <h1 class="hidden-xs">SERRA MARMORE</h1>
-                <div class="sobre">
-                    <img src="../wp-content/uploads/2023/06/SERRA-MARMORE.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/SERRA-MARMORE.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">SERRA MARMORE</h1>
-                        <span class="hidden-xs">A Serra Mármore é uma ferramenta essencial para trabalhos de corte em materiais como mármore, granito e cerâmica. Com seu potente motor e disco de corte especializado, permite cortes precisos e rápidos, sendo ideal para construção, reformas e projetos de acabamento.</span>
-                        <p class="hidden-lg">A Serra Mármore é uma ferramenta essencial para trabalhos de corte em materiais como mármore, granito e cerâmica. Com seu potente motor e disco de corte especializado, permite cortes precisos e rápidos, sendo ideal para construção, reformas e projetos de acabamento.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-		<div class="containerSobre">
-            <div class="container">
-                <h1 class="hidden-xs">Serra Circular 7”</h1>
-                <div class="sobre esquerda">
-                    <img src="../wp-content/uploads/2023/06/Serra-Circular-7.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/Serra-Circular-7.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Serra Circular 7”</h1>
-                        <span class="hidden-xs">A Serra Circular 7" é uma ferramenta versátil e poderosa para cortes precisos em madeira e outros materiais. Com sua lâmina de 7 polegadas e motor eficiente, oferece alta velocidade de corte e desempenho confiável. Indispensável em projetos de marcenaria, carpintaria e construção em geral.</span>
-                        <p class="hidden-lg">A Serra Circular 7" é uma ferramenta versátil e poderosa para cortes precisos em madeira e outros materiais. Com sua lâmina de 7 polegadas e motor eficiente, oferece alta velocidade de corte e desempenho confiável. Indispensável em projetos de marcenaria, carpintaria e construção em geral.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre direita">
-            <div class="container">
-                <h1 class="hidden-xs">Compressor De Pintura 175Lbs</h1>
-                <div class="sobre">
-                    <img src="../wp-content/uploads/2023/06/4.png" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/4.png" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Compressor De Pintura 175Lbs</h1>
-                        <span class="hidden-xs">O Compressor de Pintura 175Lbs é ideal para projetos de pintura profissionais e industriais. Com sua capacidade de 175 libras, oferece uma pressão de ar consistente e adequada para uma pulverização uniforme e eficiente. Essencial para obter resultados de alta qualidade em trabalhos de pintura de grande porte.</span>
-                        <p class="hidden-lg">O Compressor de Pintura 175Lbs é ideal para projetos de pintura profissionais e industriais. Com sua capacidade de 175 libras, oferece uma pressão de ar consistente e adequada para uma pulverização uniforme e eficiente. Essencial para obter resultados de alta qualidade em trabalhos de pintura de grande porte.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre">
-            <div class="container">
-                <h1 class="hidden-xs">Gerador a Gasolina 10 KVA</h1>
-                <div class="sobre esquerda">
-                    <img src="../wp-content/uploads/2023/06/gerador-gazolina-10kva.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/gerador-gazolina-10kva.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Gerador a Gasolina 10 KVA”</h1>
-                        <span class="hidden-xs">O Gerador a Gasolina de 10 KVA é uma fonte de energia portátil que utiliza gasolina como combustível. Com capacidade de fornecer 10.000 watts de potência, é ideal para uso em emergências ou locais sem acesso à rede elétrica.</span>
-                        <p class="hidden-lg">O Gerador a Gasolina de 10 KVA é uma fonte de energia portátil que utiliza gasolina como combustível. Com capacidade de fornecer 10.000 watts de potência, é ideal para uso em emergências ou locais sem acesso à rede elétrica.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre direita">
-            <div class="container">
-                <h1 class="hidden-xs">Furadeira e Parafusadeira Elétrica</h1>
-                <div class="sobre">
-                    <img src="../wp-content/uploads/2023/06/furadeira-parafusadeira-eletrica.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/furadeira-parafusadeira-eletrica.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Furadeira e Parafusadeira Elétrica
-                        </h1>
-                        <span class="hidden-xs">A Furadeira e Parafusadeira Elétrica é uma ferramenta versátil que combina a função de furadeira e parafusadeira. Alimentada por energia elétrica, é capaz de perfurar materiais diversos e também apertar parafusos de forma rápida e eficiente.</span>
-                        <p class="hidden-lg">A Furadeira e Parafusadeira Elétrica é uma ferramenta versátil que combina a função de furadeira e parafusadeira. Alimentada por energia elétrica, é capaz de perfurar materiais diversos e também apertar parafusos de forma rápida e eficiente.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre">
-            <div class="container">
-                <h1 class="hidden-xs">Gerador a Diesel 26 KVA</h1>
-                <div class="sobre esquerda">
-                    <img src="../wp-content/uploads/2023/06/gerador-diesel-26kva.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/gerador-diesel-26kva.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Gerador a Gasolina 10 KVA”</h1>
-                        <span class="hidden-xs">O Gerador a Gasolina de 10 KVA é uma fonte de energia portátil que utiliza gasolina como combustível. Com capacidade de fornecer 10.000 watts de potência, é ideal para uso em emergências ou locais sem acesso à rede elétrica.</span>
-                        <p class="hidden-lg">O Gerador a Gasolina de 10 KVA é uma fonte de energia portátil que utiliza gasolina como combustível. Com capacidade de fornecer 10.000 watts de potência, é ideal para uso em emergências ou locais sem acesso à rede elétrica.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre direita">
-            <div class="container">
-                <h1 class="hidden-xs">Gerador a Diesel 50 KVA cabinado</h1>
-                <div class="sobre">
-                    <img src="../wp-content/uploads/2023/06/gerador-diesel-50kva-cabinado.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/gerador-diesel-50kva-cabinado.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Gerador a Diesel 50 KVA cabinado
-                        </h1>
-                        <span class="hidden-xs">O Gerador a Diesel de 26 KVA é uma fonte de energia confiável e potente. Alimentado por diesel, é capaz de fornecer 26.000 watts de potência, sendo ideal para aplicações industriais, comerciais ou em locais onde a eletricidade é escassa ou inexistente.</span>
-                        <p class="hidden-lg">O Gerador a Diesel de 26 KVA é uma fonte de energia confiável e potente. Alimentado por diesel, é capaz de fornecer 26.000 watts de potência, sendo ideal para aplicações industriais, comerciais ou em locais onde a eletricidade é escassa ou inexistente.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre">
-            <div class="container">
-                <h1 class="hidden-xs">Gerador a Diesel 110 KVA Cabinado</h1>
-                <div class="sobre esquerda">
-                    <img src="../wp-content/uploads/2023/06/gerador-diesel-110kva-cabinado.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/gerador-diesel-110kva-cabinado.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Gerador a Diesel 110 KVA Cabinado</h1>
-                        <span class="hidden-xs">O gerador a diesel 110 kVA cabinado é uma unidade de energia robusta e confiável. Com uma cabine resistente à intempéries e ao ruído, garante fornecimento contínuo de energia em ambientes adversos ou exigentes.</span>
-                        <p class="hidden-lg">O gerador a diesel 110 kVA cabinado é uma unidade de energia robusta e confiável. Com uma cabine resistente à intempéries e ao ruído, garante fornecimento contínuo de energia em ambientes adversos ou exigentes.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre direita">
-            <div class="container">
-                <h1 class="hidden-xs">Gerador a Gasolina 5,5 KVA</h1>
-                <div class="sobre">
-                    <img src="../wp-content/uploads/2023/06/gerador-gasolina-5kva.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/gerador-gasolina-5kva.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Gerador a Gasolina 5,5 KVA 
-                        </h1>
-                        <span class="hidden-xs">O Gerador a Gasolina 5,5 KVA é uma solução portátil e eficiente para necessidades de energia menores. Seu design compacto e leve permite facilidade no transporte, sendo ideal para acampamentos, obras pequenas ou como backup residencial.</span>
-                        <p class="hidden-lg">O Gerador a Gasolina 5,5 KVA é uma solução portátil e eficiente para necessidades de energia menores. Seu design compacto e leve permite facilidade no transporte, sendo ideal para acampamentos, obras pequenas ou como backup residencial.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre">
-            <div class="container">
-                <h1 class="hidden-xs">Gerador a Gasolina 7 KVA 
-                </h1>
-                <div class="sobre esquerda">
-                    <img src="../wp-content/uploads/2023/06/gerador-gasolina-7kva.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/gerador-gasolina-7kva.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Gerador a Gasolina 7 KVA 
-                        </h1>
-                        <span class="hidden-xs">Um gerador de gasolina de 7 kVA é uma fonte de energia portátil que fornece uma potência de 7.000 watts. É adequado para uso residencial e comercial, fornecendo energia confiável durante quedas de energia ou em áreas remotas onde a eletricidade não está disponível.</span>
-                        <p class="hidden-lg">Um gerador de gasolina de 7 kVA é uma fonte de energia portátil que fornece uma potência de 7.000 watts. É adequado para uso residencial e comercial, fornecendo energia confiável durante quedas de energia ou em áreas remotas onde a eletricidade não está disponível.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre direita">
-            <div class="container">
-                <h1 class="hidden-xs">Gerador a Gasolina 10 KVA 
-                </h1>
-                <div class="sobre">
-                    <img src="../wp-content/uploads/2023/06/gerador-gazolina-10kva.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/gerador-gazolina-10kva.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Gerador a Gasolina 10 KVA 
- 
-                        </h1>
-                        <span class="hidden-xs">Um gerador a gasolina de 10 kVA é uma fonte de energia versátil e potente, capaz de fornecer até 10.000 watts. Ideal para uso residencial, comercial ou em obras, oferece confiabilidade e autonomia em situações de falta de energia elétrica.</span>
-                        <p class="hidden-lg">Um gerador a gasolina de 10 kVA é uma fonte de energia versátil e potente, capaz de fornecer até 10.000 watts. Ideal para uso residencial, comercial ou em obras, oferece confiabilidade e autonomia em situações de falta de energia elétrica.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre">
-            <div class="container">
-                <h1 class="hidden-xs">Lava Jato 3650 Lbs 
-                </h1>
-                <div class="sobre esquerda">
-                    <img src="../wp-content/uploads/2023/06/lava-jato-3650lbs.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/lava-jato-3650lbs.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Lava Jato 3650 Lbs  
-                        </h1>
-                        <span class="hidden-xs">O lava jato de 3650 lbs é uma máquina de limpeza de alta pressão projetada para remover sujeira e detritos de forma eficiente. Com uma capacidade de 3650 libras por polegada quadrada, oferece uma limpeza poderosa e eficaz em uma variedade de superfícies.</span>
-                        <p class="hidden-lg">O lava jato de 3650 lbs é uma máquina de limpeza de alta pressão projetada para remover sujeira e detritos de forma eficiente. Com uma capacidade de 3650 libras por polegada quadrada, oferece uma limpeza poderosa e eficaz em uma variedade de superfícies.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre direita">
-            <div class="container">
-                <h1 class="hidden-xs">Lava Jato L2000 
-                </h1>
-                <div class="sobre">
-                    <img src="../wp-content/uploads/2023/06/lava-jato-l2000.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/lava-jato-l2000.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Lava Jato L2000 
- 
-                        </h1>
-                        <span class="hidden-xs">O lava jato L2000 é uma máquina de limpeza de alta pressão que oferece desempenho e versatilidade. Com capacidade de 2000 libras por polegada quadrada, é ideal para remover sujeira e resíduos em áreas comerciais e residenciais, proporcionando uma limpeza eficiente e poderosa.</span>
-                        <p class="hidden-lg">O lava jato L2000 é uma máquina de limpeza de alta pressão que oferece desempenho e versatilidade. Com capacidade de 2000 libras por polegada quadrada, é ideal para remover sujeira e resíduos em áreas comerciais e residenciais, proporcionando uma limpeza eficiente e poderosa.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="containerSobre">
-            <div class="container">
-                <h1 class="hidden-xs">Enceradeira Industrial 
-                </h1>
-                <div class="sobre esquerda">
-                    <img src="../wp-content/uploads/2023/06/enceradeira-industrial.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/enceradeira-industrial.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Enceradeira Industrial 
-                        </h1>
-                        <span class="hidden-xs">A enceradeira industrial é uma máquina robusta e eficiente para o tratamento de pisos. Ideal para uso em ambientes comerciais e industriais, proporciona um polimento uniforme, remoção de manchas e uma aparência brilhante aos pisos, agilizando o processo de limpeza e manutenção.</span>
-                        <p class="hidden-lg">A enceradeira industrial é uma máquina robusta e eficiente para o tratamento de pisos. Ideal para uso em ambientes comerciais e industriais, proporciona um polimento uniforme, remoção de manchas e uma aparência brilhante aos pisos, agilizando o processo de limpeza e manutenção.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="containerSobre direita">
-            <div class="container">
-                <h1 class="hidden-xs">Aspirador de Pó 70 Litros
-                </h1>
-                <div class="sobre">
-                    <img src="../wp-content/uploads/2023/06/aspirador-po-70l.jpg" class="hidden-lg" alt="">
-                    <div class="imgs-bg">
-                        <img src="../wp-content/uploads/2023/06/aspirador-po-70l.jpg" class="hidden-xs" alt="">
-                        <div class="boxLaranja hidden-xs"></div>
-                    </div>
-                    <div class="cardEvento">
-                        <h1 class="hidden-lg">Aspirador de Pó 70 Litros
- 
-                        </h1>
-                        <span class="hidden-xs">O aspirador de pó de 70 litros é uma poderosa ferramenta de limpeza que oferece capacidade e eficiência. Com grande capacidade de armazenamento, é ideal para ambientes comerciais e industriais, proporcionando uma limpeza profunda e rápida.</span>
-                        <p class="hidden-lg">O aspirador de pó de 70 litros é uma poderosa ferramenta de limpeza que oferece capacidade e eficiência. Com grande capacidade de armazenamento, é ideal para ambientes comerciais e industriais, proporcionando uma limpeza profunda e rápida.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
 
 	</section>
 
