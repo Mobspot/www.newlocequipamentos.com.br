@@ -1,327 +1,327 @@
 [
     {
       "produto": "Andaime Fachadeiro",
-      "descrição": "Andaime utilizado em fachadas de prédios e construções, proporcionando acesso seguro aos trabalhadores e suporte para materiais.",
+      "descricao": "Andaime utilizado em fachadas de prédios e construções, proporcionando acesso seguro aos trabalhadores e suporte para materiais.",
       "imagem": "andaime-fachadeiro.jpg"
     },
     {
       "produto": "Andaime Tubular",
-      "descrição": "Estrutura tubular resistente, ideal para suporte e acesso em obras e construções. Proporciona segurança, praticidade e estabilidade.",
+      "descricao": "Estrutura tubular resistente, ideal para suporte e acesso em obras e construções. Proporciona segurança, praticidade e estabilidade.",
       "imagem": "andaime-tubular.jpg"
     },
     {
       "produto": "Barra de Ancoragem",
-      "descrição": "Barra metálica utilizada para ancoragem e fixação de estruturas em construções. Garante resistência e estabilidade.",
+      "descricao": "Barra metálica utilizada para ancoragem e fixação de estruturas em construções. Garante resistência e estabilidade.",
       "imagem": "barra-de-ancoragem.jpg"
     },
     {
       "produto": "Escora Metálica",
-      "descrição": "Suporte metálico ajustável para escoramento temporário de elementos estruturais em obras. Proporciona estabilidade, segurança e facilidade de ajuste.",
+      "descricao": "Suporte metálico ajustável para escoramento temporário de elementos estruturais em obras. Proporciona estabilidade, segurança e facilidade de ajuste.",
       "imagem": "escora-metalica.jpg"
     },
     {
       "produto": "Tensor para Fôrma",
-      "descrição": "Dispositivo essencial para tensionar e fixar formas de concreto durante a construção. Garante estabilidade estrutural, facilita o processo de concretagem e garante a qualidade das estruturas.",
+      "descricao": "Dispositivo essencial para tensionar e fixar formas de concreto durante a construção. Garante estabilidade estrutural, facilita o processo de concretagem e garante a qualidade das estruturas.",
       "imagem": "tensor-para-forma.jpg"
     },
     {
       "produto": "Escada Extensiva",
-      "descrição": "Escada versátil com múltiplas extensões que permite alcançar diferentes alturas com segurança. Ideal para trabalhos em altura, manutenção e construção, oferecendo estabilidade e facilidade de uso.",
+      "descricao": "Escada versátil com múltiplas extensões que permite alcançar diferentes alturas com segurança. Ideal para trabalhos em altura, manutenção e construção, oferecendo estabilidade e facilidade de uso.",
       "imagem": "escada-extensiva.jpg"
     },
     {
       "produto": "Compactador a Gasolina",
-      "descrição": "Equipamento a gasolina para compactação de solo em obras. Proporciona maior densidade e estabilidade, ideal para fundações, pisos e aterros, garantindo uma base sólida e segura.",
+      "descricao": "Equipamento a gasolina para compactação de solo em obras. Proporciona maior densidade e estabilidade, ideal para fundações, pisos e aterros, garantindo uma base sólida e segura.",
       "imagem": "compactador-a-gasolina.jpg"
     },
     {
       "produto": "Compactador Elétrico",
-      "descrição": "Compactador elétrico para compactação do solo em áreas de difícil acesso ou onde o uso de gasolina é limitado. Leve e eficiente, é ideal para trabalhos de menor porte, mantendo a qualidade da compactação.",
+      "descricao": "Compactador elétrico para compactação do solo em áreas de difícil acesso ou onde o uso de gasolina é limitado. Leve e eficiente, é ideal para trabalhos de menor porte, mantendo a qualidade da compactação.",
       "imagem": "compactador-eletrico.jpg"
     },
     {
       "produto": "Placa Vibratória a Gasolina",
-      "descrição": "Placa vibratória movida a gasolina para compactação de solo em áreas restritas. Proporciona maior eficiência, rapidez e densidade, sendo ideal para calçadas, jardins e pequenas obras.",
+      "descricao": "Placa vibratória movida a gasolina para compactação de solo em áreas restritas. Proporciona maior eficiência, rapidez e densidade, sendo ideal para calçadas, jardins e pequenas obras.",
       "imagem": "placa-vibratoria-a-gasolina.jpg"
     },
     {
       "produto": "Compressor Pneumático 92 PCM",
-      "descrição": "Compressor pneumático com capacidade de 92 PCM (pés cúbicos por minuto). Ideal para alimentar ferramentas pneumáticas, como pistolas de pintura, lixadeiras e grampeadores, garantindo maior produtividade e desempenho.",
+      "descricao": "Compressor pneumático com capacidade de 92 PCM (pés cúbicos por minuto). Ideal para alimentar ferramentas pneumáticas, como pistolas de pintura, lixadeiras e grampeadores, garantindo maior produtividade e desempenho.",
       "imagem": "compressor-pneumatico-92-pcm.jpg"
     },
     {
       "produto": "Compressor Pneumático 150 PCM",
-      "descrição": "Compressor pneumático com capacidade de 150 PCM (pés cúbicos por minuto). Versátil e potente, adequado para uso com diversas ferramentas pneumáticas, como martelos, chaves de impacto e pistolas de ar.",
+      "descricao": "Compressor pneumático com capacidade de 150 PCM (pés cúbicos por minuto). Versátil e potente, adequado para uso com diversas ferramentas pneumáticas, como martelos, chaves de impacto e pistolas de ar.",
       "imagem": "compressor-pneumatico-150-pcm.jpg"
     },
     {
       "produto": "Compressor Pneumático 200 PCM",
-      "descrição": "Compressor pneumático com capacidade de 200 PCM (pés cúbicos por minuto). Indicado para operações que exigem alta potência, proporcionando fluxo constante de ar para ferramentas pesadas e de alto consumo.",
+      "descricao": "Compressor pneumático com capacidade de 200 PCM (pés cúbicos por minuto). Indicado para operações que exigem alta potência, proporcionando fluxo constante de ar para ferramentas pesadas e de alto consumo.",
       "imagem": "compressor-pneumatico-200-pcm.jpg"
     },
     {
       "produto": "Compressor de Pintura 140Lbs",
-      "descrição": "Compressor de pintura com capacidade de 140 libras. Permite uma aplicação de tinta eficiente e uniforme em projetos de pintura, garantindo um acabamento profissional e economizando tempo e esforço.",
+      "descricao": "Compressor de pintura com capacidade de 140 libras. Permite uma aplicação de tinta eficiente e uniforme em projetos de pintura, garantindo um acabamento profissional e economizando tempo e esforço.",
       "imagem": "compressor-de-pintura-140lbs.jpg"
     },
     {
       "produto": "Compressor de Pintura 175Lbs",
-      "descrição": "Compressor de pintura com capacidade de 175 libras. Ideal para trabalhos de médio a grande porte, proporciona pressão adequada para pintura de superfícies maiores, como paredes e fachadas.",
+      "descricao": "Compressor de pintura com capacidade de 175 libras. Ideal para trabalhos de médio a grande porte, proporciona pressão adequada para pintura de superfícies maiores, como paredes e fachadas.",
       "imagem": "compressor-de-pintura-175lbs.jpg"
     },
     {
       "produto": "Compressor de Pintura 40Lbs",
-      "descrição": "Compressor de pintura com capacidade de 40 libras. Compacto e versátil, é indicado para pequenos trabalhos e retoques, permitindo uma aplicação precisa e eficiente de tintas e vernizes.",
+      "descricao": "Compressor de pintura com capacidade de 40 libras. Compacto e versátil, é indicado para pequenos trabalhos e retoques, permitindo uma aplicação precisa e eficiente de tintas e vernizes.",
       "imagem": "compressor-de-pintura-40lbs.jpg"
     },
     {
       "produto": "Betoneira 400 Litros",
-      "descrição": "Betoneira de 400 litros para mistura de concreto. Facilita o trabalho de preparação de concreto em obras, proporcionando uma mistura homogênea e de alta qualidade, agilizando o processo construtivo.",
+      "descricao": "Betoneira de 400 litros para mistura de concreto. Facilita o trabalho de preparação de concreto em obras, proporcionando uma mistura homogênea e de alta qualidade, agilizando o processo construtivo.",
       "imagem": "betoneira-400-litros.jpg"
     },
     {
       "produto": "Acabadora de Superfície",
-      "descrição": "Máquina utilizada para nivelar e dar acabamento em superfícies de concreto. Proporciona um acabamento liso e uniforme, reduzindo a necessidade de trabalho manual e garantindo um resultado profissional.",
+      "descricao": "Máquina utilizada para nivelar e dar acabamento em superfícies de concreto. Proporciona um acabamento liso e uniforme, reduzindo a necessidade de trabalho manual e garantindo um resultado profissional.",
       "imagem": "acabadora-de-superficie.jpg"
     },
     {
       "produto": "Mangote 25,35,40 e 60mm",
-      "descrição": "Mangote flexível de diferentes diâmetros (25, 35, 40 e 60mm) para bombeamento de concreto. Utilizado em conjunto com vibradores, permite a compactação e adensamento do concreto em diversas aplicações.",
+      "descricao": "Mangote flexível de diferentes diâmetros (25, 35, 40 e 60mm) para bombeamento de concreto. Utilizado em conjunto com vibradores, permite a compactação e adensamento do concreto em diversas aplicações.",
       "imagem": "mangote-25-35-40-e-60mm.jpg"
     },
     {
       "produto": "Misturador de Argamassa",
-      "descrição": "Equipamento utilizado para misturar argamassa de forma rápida e eficiente. Ideal para obras de alvenaria, azulejaria e revestimentos, garantindo uma mistura homogênea e de qualidade.",
+      "descricao": "Equipamento utilizado para misturar argamassa de forma rápida e eficiente. Ideal para obras de alvenaria, azulejaria e revestimentos, garantindo uma mistura homogênea e de qualidade.",
       "imagem": "misturador-de-argamassa.jpg"
     },
     {
       "produto": "Motor Vibrador a Gasolina",
-      "descrição": "Motor vibrador a gasolina para adensamento do concreto. Proporciona uma vibração eficaz, garantindo a homogeneidade e a resistência do concreto em obras onde não há acesso à energia elétrica.",
+      "descricao": "Motor vibrador a gasolina para adensamento do concreto. Proporciona uma vibração eficaz, garantindo a homogeneidade e a resistência do concreto em obras onde não há acesso à energia elétrica.",
       "imagem": "motor-vibrador-a-gasolina.jpg"
     },
     {
       "produto": "Motor Vibrador Elétrico",
-      "descrição": "Motor vibrador elétrico para adensamento do concreto. Proporciona uma vibração eficiente, garantindo a qualidade e a resistência do concreto em obras onde há acesso à energia elétrica.",
+      "descricao": "Motor vibrador elétrico para adensamento do concreto. Proporciona uma vibração eficiente, garantindo a qualidade e a resistência do concreto em obras onde há acesso à energia elétrica.",
       "imagem": "motor-vibrador-eletrico.jpg"
     },
     {
       "produto": "Motor Vibrador Elétrico Portátil",
-      "descrição": "Motor vibrador elétrico portátil para adensamento do concreto. Compacto e de fácil manuseio, é ideal para trabalhos em locais de difícil acesso, proporcionando uma vibração eficaz e uniforme.",
+      "descricao": "Motor vibrador elétrico portátil para adensamento do concreto. Compacto e de fácil manuseio, é ideal para trabalhos em locais de difícil acesso, proporcionando uma vibração eficaz e uniforme.",
       "imagem": "motor-vibrador-eletrico-portatil.jpg"
     },
     {
       "produto": "Esmerilhadeira Angular 4 1/2\"",
-      "descrição": "Esmerilhadeira angular de 4 1/2\" utilizada para cortar, desbastar e lixar materiais como metal, pedra e concreto. Oferece alto desempenho, precisão e segurança em trabalhos de acabamento e preparação.",
+      "descricao": "Esmerilhadeira angular de 4 1/2\" utilizada para cortar, desbastar e lixar materiais como metal, pedra e concreto. Oferece alto desempenho, precisão e segurança em trabalhos de acabamento e preparação.",
       "imagem": "esmerilhadeira-angular-4-1-2.jpg"
     },
     {
       "produto": "Esmerilhadeira Angular 7\" ou 9\"",
-      "descrição": "Esmerilhadeira angular de 7\" ou 9\" utilizada para cortar, desbastar e lixar materiais resistentes, como metais e concreto. Oferece potência e durabilidade, sendo ideal para trabalhos pesados e industriais.",
+      "descricao": "Esmerilhadeira angular de 7\" ou 9\" utilizada para cortar, desbastar e lixar materiais resistentes, como metais e concreto. Oferece potência e durabilidade, sendo ideal para trabalhos pesados e industriais.",
       "imagem": "esmerilhadeira-angular-7-ou-9.jpg"
     },
     {
       "produto": "Serra Circular 7”",
-      "descrição": "Serra circular de 7\" para cortes precisos em madeira, MDF e outros materiais. Proporciona cortes rápidos e limpos, com ajustes de ângulo e profundidade, sendo amplamente utilizada na construção civil.",
+      "descricao": "Serra circular de 7\" para cortes precisos em madeira, MDF e outros materiais. Proporciona cortes rápidos e limpos, com ajustes de ângulo e profundidade, sendo amplamente utilizada na construção civil.",
       "imagem": "serra-circular-7.jpg"
     },
     {
       "produto": "Serra Clipper a Gasolina ou Elétrica",
-      "descrição":"Serra clipper a gasolina ou elétrica utilizada para cortes rápidos em concreto, asfalto e materiais de alvenaria. Oferece potência e mobilidade, sendo essencial em trabalhos de demolição e construção.",
+      "descricao":"Serra clipper a gasolina ou elétrica utilizada para cortes rápidos em concreto, asfalto e materiais de alvenaria. Oferece potência e mobilidade, sendo essencial em trabalhos de demolição e construção.",
       "imagem": "serra-clipper-a-gasolina-ou-eletrica.jpg"
     },
     {
       "produto": "Serra de Bancada",
-      "descrição": "Serra de bancada utilizada para cortes precisos em madeira e materiais similares. Proporciona estabilidade e segurança, com ajustes de ângulo e altura, sendo ideal para marcenarias e carpintarias.",
+      "descricao": "Serra de bancada utilizada para cortes precisos em madeira e materiais similares. Proporciona estabilidade e segurança, com ajustes de ângulo e altura, sendo ideal para marcenarias e carpintarias.",
       "imagem": "serra-de-bancada.jpg"
     },
     {
       "produto": "Serra Mármore",
-      "descrição": "Serra mármore para cortes em materiais como mármore, granito, cerâmica e azulejos. Compacta e potente, oferece cortes precisos e limpos, sendo amplamente utilizada em obras e reformas.",
+      "descricao": "Serra mármore para cortes em materiais como mármore, granito, cerâmica e azulejos. Compacta e potente, oferece cortes precisos e limpos, sendo amplamente utilizada em obras e reformas.",
       "imagem": "serra-marmore.jpg"
     },
     {
       "produto": "Serra Policorte",
-      "descrição": "Serra policorte para cortes em metais, como ferro e aço. Proporciona cortes precisos e rápidos, com ajustes de ângulo e inclinação, sendo ideal para trabalhos de serralheria e estruturas metálicas.",
+      "descricao": "Serra policorte para cortes em metais, como ferro e aço. Proporciona cortes precisos e rápidos, com ajustes de ângulo e inclinação, sendo ideal para trabalhos de serralheria e estruturas metálicas.",
       "imagem": "serra-policorte.jpg"
     },
     {
       "produto": "Serra Tico - Tico",
-      "descrição": "Serra tico-tico para cortes curvos e detalhados em madeira, plástico e outros materiais. Leve e fácil de manusear, oferece precisão e versatilidade em trabalhos de marcenaria e artesanato.",
+      "descricao": "Serra tico-tico para cortes curvos e detalhados em madeira, plástico e outros materiais. Leve e fácil de manusear, oferece precisão e versatilidade em trabalhos de marcenaria e artesanato.",
       "imagem": "serra-tico-tico.jpg"
     },
     {
       "produto": "Serra Sabre",
-      "descrição": "Serra sabre utilizada para cortes precisos em materiais diversos, como madeira, metal e plástico. Possui lâmina reciprocante que permite cortes rápidos e eficientes em diferentes aplicações, sendo amplamente utilizada em trabalhos de demolição, construção e manutenção.",
+      "descricao": "Serra sabre utilizada para cortes precisos em materiais diversos, como madeira, metal e plástico. Possui lâmina reciprocante que permite cortes rápidos e eficientes em diferentes aplicações, sendo amplamente utilizada em trabalhos de demolição, construção e manutenção.",
       "imagem": "serra-sabre.jpg"
     },
     {
       "produto": "Serra de Bancada p/ Bloco",
-      "descrição": "Serra de bancada para cortes em blocos de concreto e materiais similares. Proporciona cortes retos e precisos, com ajustes de ângulo e profundidade, sendo essencial em obras e construções.",
+      "descricao": "Serra de bancada para cortes em blocos de concreto e materiais similares. Proporciona cortes retos e precisos, com ajustes de ângulo e profundidade, sendo essencial em obras e construções.",
       "imagem": "serra-de-bancada-p-bloco.jpg"
     },
     {
       "produto": "Martelo Rompedor 5kg Rotativo",
-      "descrição": "Martelo rompedor rotativo de 5kg para demolições e quebra de concreto.",
+      "descricao": "Martelo rompedor rotativo de 5kg para demolições e quebra de concreto.",
       "imagem": "martelo-rompedor-5kg-rotativo.jpg"
     },
     {
         "produto": "Martelo Rompedor 5kg",
-        "descrição": "Martelo rompedor de 5kg para demolições e quebra de concreto. Proporciona alta potência e impacto, facilitando a remoção de estruturas sólidas em obras e construções.",
+        "descricao": "Martelo rompedor de 5kg para demolições e quebra de concreto. Proporciona alta potência e impacto, facilitando a remoção de estruturas sólidas em obras e construções.",
         "imagem": "martelo-rompedor-5kg.jpg"
         },
         {
         "produto": "Martelo Rompedor 10kg",
-        "descrição": "Martelo rompedor de 10kg para demolições e quebra de concreto. Oferece potência e eficiência, sendo indicado para trabalhos de médio a grande porte, como remoção de pisos e fundações.",
+        "descricao": "Martelo rompedor de 10kg para demolições e quebra de concreto. Oferece potência e eficiência, sendo indicado para trabalhos de médio a grande porte, como remoção de pisos e fundações.",
         "imagem": "martelo-rompedor-10kg.jpg"
         },
         {
         "produto": "Martelo Rompedor 16 a 20kg",
-        "descrição": "Martelo rompedor de 16 a 20kg para demolições e quebra de concreto de grande porte. Oferece alta potência e impacto, adequado para trabalhos pesados, como demolição de estruturas robustas.",
+        "descricao": "Martelo rompedor de 16 a 20kg para demolições e quebra de concreto de grande porte. Oferece alta potência e impacto, adequado para trabalhos pesados, como demolição de estruturas robustas.",
         "imagem": "martelo-rompedor-16-a-20kg.jpg"
         },
         {
         "produto": "Martelo Rompedor 30kg",
-        "descrição": "Martelo rompedor de 30kg para demolições e quebra de concreto de grande porte. Proporciona potência extrema e alto impacto, ideal para trabalhos de demolição em estruturas sólidas e resistentes.",
+        "descricao": "Martelo rompedor de 30kg para demolições e quebra de concreto de grande porte. Proporciona potência extrema e alto impacto, ideal para trabalhos de demolição em estruturas sólidas e resistentes.",
         "imagem": "martelo-rompedor-30kg.jpg"
         },
         {
         "produto": "Bomba Anauger",
-        "descrição": "Bomba Anauger para bombeamento de água em poços artesianos e cisternas. Possui alto desempenho e durabilidade, proporcionando um abastecimento eficiente e confiável de água.",
+        "descricao": "Bomba Anauger para bombeamento de água em poços artesianos e cisternas. Possui alto desempenho e durabilidade, proporcionando um abastecimento eficiente e confiável de água.",
         "imagem": "bomba-anauger.jpg"
         },
         {
         "produto": "Bomba Lameira 3'",
-        "descrição": "Bomba lameira de 3' para drenagem de água limpa ou suja em obras e áreas alagadas. Oferece grande vazão e resistência, sendo adequada para esgotamento de águas pluviais e lama.",
+        "descricao": "Bomba lameira de 3' para drenagem de água limpa ou suja em obras e áreas alagadas. Oferece grande vazão e resistência, sendo adequada para esgotamento de águas pluviais e lama.",
         "imagem": "bomba-lameira-3.jpg"
         },
         {
         "produto": "Bomba Lameira 4'",
-        "descrição": "Bomba lameira de 4' para drenagem de água limpa ou suja em obras e áreas alagadas. Proporciona alta vazão e resistência, sendo indicada para esgotamento de águas pluviais e lama.",
+        "descricao": "Bomba lameira de 4' para drenagem de água limpa ou suja em obras e áreas alagadas. Proporciona alta vazão e resistência, sendo indicada para esgotamento de águas pluviais e lama.",
         "imagem": "bomba-lameira-4.jpg"
         },
         {
         "produto": "Bomba Submersa 2', 3' ou 4'",
-        "descrição": "Bomba submersa de diferentes diâmetros (2', 3' ou 4') para drenagem e esgotamento de água em poços, cisternas e áreas alagadas. Proporciona eficiência e confiabilidade no bombeamento.",
+        "descricao": "Bomba submersa de diferentes diâmetros (2', 3' ou 4') para drenagem e esgotamento de água em poços, cisternas e áreas alagadas. Proporciona eficiência e confiabilidade no bombeamento.",
         "imagem": "bomba-submersa-2-3-ou-4.jpg"
         },
         {
         "produto":"Bomba Mangote 2'",
-        "descrição": "Bomba mangote de 2' para drenagem e esgotamento de água em obras e áreas alagadas. Possui alta vazão e resistência, sendo ideal para escoamento rápido de águas pluviais e lama.",
+        "descricao": "Bomba mangote de 2' para drenagem e esgotamento de água em obras e áreas alagadas. Possui alta vazão e resistência, sendo ideal para escoamento rápido de águas pluviais e lama.",
         "imagem": "bomba-mangote-2.jpg"
         },
         {
         "produto": "Bomba Recalque",
-        "descrição": "Bomba de recalque para pressurização e transporte de água em sistemas hidráulicos. Oferece alta potência e eficiência, garantindo o abastecimento adequado de água em diferentes aplicações.",
+        "descricao": "Bomba de recalque para pressurização e transporte de água em sistemas hidráulicos. Oferece alta potência e eficiência, garantindo o abastecimento adequado de água em diferentes aplicações.",
         "imagem": "bomba-recalque.jpg"
         },
         {
         "produto": "Cadeira Suspensa",
-        "descrição": "Cadeira suspensa utilizada em trabalhos em altura, como pintura e manutenção de fachadas. Proporciona segurança e conforto ao trabalhador, permitindo acesso a áreas de difícil alcance.",
+        "descricao": "Cadeira suspensa utilizada em trabalhos em altura, como pintura e manutenção de fachadas. Proporciona segurança e conforto ao trabalhador, permitindo acesso a áreas de difícil alcance.",
         "imagem": "cadeira-suspensa.jpg"
         },
         {
         "produto": "Guincho de Coluna",
-        "descrição": "Guincho de coluna para movimentação vertical de cargas em obras e construções. Oferece capacidade de carga e segurança, facilitando o transporte de materiais em alturas elevadas.",
+        "descricao": "Guincho de coluna para movimentação vertical de cargas em obras e construções. Oferece capacidade de carga e segurança, facilitando o transporte de materiais em alturas elevadas.",
         "imagem": "guincho-de-coluna.jpg"
         },
         {
         "produto": "Guincho Tifor",
-        "descrição": "Guincho tifor para elevação e movimentação de cargas pesadas em espaços reduzidos. Proporciona alta capacidade de carga e controle preciso, sendo utilizado em obras e atividades industriais.",
+        "descricao": "Guincho tifor para elevação e movimentação de cargas pesadas em espaços reduzidos. Proporciona alta capacidade de carga e controle preciso, sendo utilizado em obras e atividades industriais.",
         "imagem": "guincho-tifor.jpg"
         },
         {
         "produto": "Guincho Velox",
-        "descrição": "Guincho velox para elevação e movimentação de cargas em obras e construções. Oferece alta velocidade e capacidade de carga, sendo ideal para trabalhos que exigem agilidade e eficiência.",
+        "descricao": "Guincho velox para elevação e movimentação de cargas em obras e construções. Oferece alta velocidade e capacidade de carga, sendo ideal para trabalhos que exigem agilidade e eficiência.",
         "imagem": "guincho-velox.jpg"
         },
         {
         "produto": "Guincho Mini Grua 500kg",
-        "descrição": "Guincho mini grua de 500kg para elevação e movimentação de cargas em espaços compactos. Possui design portátil e capacidade de carga adequada para trabalhos de menor porte.",
+        "descricao": "Guincho mini grua de 500kg para elevação e movimentação de cargas em espaços compactos. Possui design portátil e capacidade de carga adequada para trabalhos de menor porte.",
         "imagem": "guincho-mini-grua-500kg.jpg"
         },
         {
         "produto": "Talha Manual de 1,2,3 ou 5 Toneladas",
-        "descrição": "Talha manual de diferentes capacidades (1, 2, 3 ou 5 toneladas) para elevação e movimentação de cargas. Proporciona segurança, controle e praticidade em operações de içamento.",
+        "descricao": "Talha manual de diferentes capacidades (1, 2, 3 ou 5 toneladas) para elevação e movimentação de cargas. Proporciona segurança, controle e praticidade em operações de içamento.",
         "imagem": "talha-manual-de-1-2-3-ou-5-toneladas.jpg"
         },
         {
         "produto": "Pistola Finca Pino HILT DX 36",
-        "descrição": "Pistola finca pino HILT DX 36 para fixação rápida e precisa de pinos em estruturas de concreto e aço. Oferece alta potência e desempenho, garantindo uma fixação segura eeficiente.",
+        "descricao": "Pistola finca pino HILT DX 36 para fixação rápida e precisa de pinos em estruturas de concreto e aço. Oferece alta potência e desempenho, garantindo uma fixação segura eeficiente.",
         "imagem": "pistola-finca-pino-hilt-dx-36.jpg"
         },
         {
         "produto": "Perfuratriz HILT DD200",
-        "descrição": "Perfuratriz HILT DD200 para perfuração de concreto, alvenaria e rochas. Oferece alta potência, durabilidade e precisão, sendo utilizada em obras, instalações elétricas e hidráulicas.",
+        "descricao": "Perfuratriz HILT DD200 para perfuração de concreto, alvenaria e rochas. Oferece alta potência, durabilidade e precisão, sendo utilizada em obras, instalações elétricas e hidráulicas.",
         "imagem": "perfuratriz-hilt-dd200.jpg"
         },
         {
         "produto": "Perfuratriz HILT DD 110",
-        "descrição": "Perfuratriz HILT DD 110 para perfuração de concreto e alvenaria. Proporciona potência e versatilidade em trabalhos de instalações e fixações, garantindo perfurações precisas e eficientes.",
+        "descricao": "Perfuratriz HILT DD 110 para perfuração de concreto e alvenaria. Proporciona potência e versatilidade em trabalhos de instalações e fixações, garantindo perfurações precisas e eficientes.",
         "imagem": "perfuratriz-hilt-dd-110.jpg"
         },
         {
         "produto": "Martelete Perfurador SDS Plus",
-        "descrição": "Martelete perfurador SDS Plus para perfuração e demolição em concreto e alvenaria. Oferece alta potência e durabilidade, sendo utilizado em obras e construções que exigem resistência.",
+        "descricao": "Martelete perfurador SDS Plus para perfuração e demolição em concreto e alvenaria. Oferece alta potência e durabilidade, sendo utilizado em obras e construções que exigem resistência.",
         "imagem": "martelete-perfurador-sds-plus.jpg"
         },
         {
         "produto": "Furadeira e Parafusadeira a Bateria",
-        "descrição": "Furadeira e parafusadeira a bateria para perfuração e fixação de materiais diversos. Oferece mobilidade e praticidade, sendo ideal para trabalhos em locais sem acesso à energia elétrica.",
+        "descricao": "Furadeira e parafusadeira a bateria para perfuração e fixação de materiais diversos. Oferece mobilidade e praticidade, sendo ideal para trabalhos em locais sem acesso à energia elétrica.",
         "imagem": "furadeira-e-parafusadeira-a-bateria.jpg"
         },
         {
         "produto": "Furadeira e Parafusadeira Elétrica",
-        "descrição": "Furadeira e parafusadeira elétrica para perfuração e fixação de materiais. Proporciona potência, precisão e versatilidade, sendo indispensável em trabalhos de marcenaria e montagem de móveis.",
+        "descricao": "Furadeira e parafusadeira elétrica para perfuração e fixação de materiais. Proporciona potência, precisão e versatilidade, sendo indispensável em trabalhos de marcenaria e montagem de móveis.",
         "imagem": "furadeira-e-parafusadeira-eletrica.jpg"
         },
         {
         "produto": "Aspirador de Pó 70 Litros",
-        "descrição": "Aspirador de pó de 70 litros para limpeza e remoção de poeira em obras e ambientes industriais. Possui alta capacidade de sucção e filtragem, garantindo um ambiente limpo e saudável.",
+        "descricao": "Aspirador de pó de 70 litros para limpeza e remoção de poeira em obras e ambientes industriais. Possui alta capacidade de sucção e filtragem, garantindo um ambiente limpo e saudável.",
         "imagem": "aspirador-de-po-70-litros.jpg"
         },
         {
         "produto": "Enceradeira Industrial",
-        "descrição": "Enceradeira industrial para limpeza e polimento de pisos. Proporciona alto desempenho e eficiência na remoção de sujeira e na aplicação de ceras, mantendo os pisos brilhantes e protegidos.",
+        "descricao": "Enceradeira industrial para limpeza e polimento de pisos. Proporciona alto desempenho e eficiência na remoção de sujeira e na aplicação de ceras, mantendo os pisos brilhantes e protegidos.",
         "imagem": "enceradeira-industrial.jpg"
         },
         {
         "produto": "Lava Jato L2000",
-        "descrição": "Lava jato L2000 para limpeza de veículos, pisos e superfícies. Possui alta pressão de água e diversos acessórios, proporcionando uma limpeza eficiente e detalhada em diferentes aplicações.",
+        "descricao": "Lava jato L2000 para limpeza de veículos, pisos e superfícies. Possui alta pressão de água e diversos acessórios, proporcionando uma limpeza eficiente e detalhada em diferentes aplicações.",
         "imagem": "lava-jato-l2000.jpg"
         },
         {
         "produto": "Lava Jato 3650 Lbs",
-        "descrição": "Lava jato de alta pressão com capacidade de 3650 libras. Ideal para limpeza de áreas externas, equipamentos e maquinários, removendo sujeira, óleo e resíduos com facilidade e rapidez.",
+        "descricao": "Lava jato de alta pressão com capacidade de 3650 libras. Ideal para limpeza de áreas externas, equipamentos e maquinários, removendo sujeira, óleo e resíduos com facilidade e rapidez.",
         "imagem": "lava-jato-3650-lbs.jpg"
         },
         {
         "produto": "Gerador a Diesel 26 KVA",
-        "descrição": "Gerador a diesel de 26 KVA para fornecimento de energia em locais sem acesso à rede elétrica. Proporciona energia estável e confiável, adequado para obras, eventos e situações de emergência.",
+        "descricao": "Gerador a diesel de 26 KVA para fornecimento de energia em locais sem acesso à rede elétrica. Proporciona energia estável e confiável, adequado para obras, eventos e situações de emergência.",
         "imagem": "gerador-a-diesel-26-kva.jpg"
         },
         {
         "produto": "Gerador a Diesel 50 KVA Cabinado",
-        "descrição": "Gerador a diesel de 50 KVA, com cabine de proteção acústica para redução de ruídos. Ideal para locais sensíveis ao barulho, proporcionando energia contínua e segura em diversas aplicações.",
+        "descricao": "Gerador a diesel de 50 KVA, com cabine de proteção acústica para redução de ruídos. Ideal para locais sensíveis ao barulho, proporcionando energia contínua e segura em diversas aplicações.",
         "imagem": "gerador-a-diesel-50-kva-cabinado.jpg"
         },
         {
         "produto": "Gerador a Diesel 110 KVA Cabinado",
-        "descrição": "Gerador a diesel de 110 KVA, com cabine de proteção acústica para redução de ruídos. Garante fornecimento de energia confiável em locais onde o silêncio é essencial, como eventos e hospitais.",
+        "descricao": "Gerador a diesel de 110 KVA, com cabine de proteção acústica para redução de ruídos. Garante fornecimento de energia confiável em locais onde o silêncio é essencial, como eventos e hospitais.",
         "imagem": "gerador-a-diesel-110-kva-cabinado.jpg"
         },
         {
         "produto": "Gerador a Gasolina 7 KVA",
-        "descrição": "Gerador a gasolina de 7 KVA para fornecimento de energia em locais remotos ou emergenciais. Portátil e versátil, oferece autonomia e praticidade em situações onde a energia elétrica não está disponível.",
+        "descricao": "Gerador a gasolina de 7 KVA para fornecimento de energia em locais remotos ou emergenciais. Portátil e versátil, oferece autonomia e praticidade em situações onde a energia elétrica não está disponível.",
         "imagem": "gerador-a-gasolina-7-kva.jpg"
         },
         {
         "produto": "Gerador a Gasolina 10 KVA",
-        "descrição": "Gerador a gasolina de 10 KVA para fornecimento de energia temporária em obras, eventos e situações de emergência. Garante energia confiável e potência suficiente para diferentes demandas.",
+        "descricao": "Gerador a gasolina de 10 KVA para fornecimento de energia temporária em obras, eventos e situações de emergência. Garante energia confiável e potência suficiente para diferentes demandas.",
         "imagem": "gerador-a-gasolina-10-kva.jpg"
         },
         {
         "produto": "Gerador a Gasolina 5,5 KVA",
-        "descrição": "Gerador a gasolina de 5,5 KVA para fornecimento de energia portátil em locais sem acesso à rede elétrica. Compacto e eficiente, é ideal para atividades ao ar livre, acampamentos e pequenas obras.",
+        "descricao": "Gerador a gasolina de 5,5 KVA para fornecimento de energia portátil em locais sem acesso à rede elétrica. Compacto e eficiente, é ideal para atividades ao ar livre, acampamentos e pequenas obras.",
         "imagem": "gerador-a-gasolina-5-5-kva.jpg"
         }
   ]

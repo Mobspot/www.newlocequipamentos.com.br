@@ -11,15 +11,14 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	
 	<meta name="theme-color" content="#000">
-	<meta name="author" content="Norte marketing esportivo">
+	<meta name="author" content="Mobspot Soluções Web">
 
 	<title>Produtos</title>
 
-	<!-- <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet"> -->
 	<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="../wp-content/themes/hotsites-2020/css/libs.min.css">
-	<link rel="stylesheet" href="../wp-content/themes/hotsites-2020/style.css">
+	<link rel="stylesheet" href="css/libs.min.css">
+	<link rel="stylesheet" href="css/style.css">
 	
 	<script> var exports = {}; </script>
 	<!-- FAVICON -->
@@ -64,7 +63,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <body class="page-template-default page page-id-141">
 	
 	<a href="https://api.whatsapp.com/send?phone=5511981349241" style="position:fixed; bottom:55px; right:55px; z-index: 1000;" target="_blank">
-		<img src="zap-ico.png" style="width:60px; height:60px;"/>
+		<img src="assets/zap-ico.png" style="width:60px; height:60px;"/>
 	</a><main id="etapa">
 
     <!-- Definir a ordem dos módulos -->
@@ -76,10 +75,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             <span></span>
         </label>
                 <div class="logo">
-            <a href="../index.html">
+            <a href="index.html">
                                 <div class="img-logo">
-                    <img src="../wp-content/uploads/2023/06/newloc-logotipo.png" class="hidden-xs">
-                    <img src="../wp-content/uploads/2023/06/newloc-logotipo.png" class="hidden-lg">
+                    <img src="assets/newloc-logotipo.png" class="hidden-xs">
+                    <img src="assets/newloc-logotipo.png" class="hidden-lg">
                 </div>
             </a>
             <div class="infos">
@@ -93,7 +92,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </div>
         <input type="checkbox" id="close-header">
         <label for="close-header" class="alterar-cidade hidden-lg hidden-xs">
-            <img src="#" data-svg="https://newloc.mobspot.com.br/wp-content/themes/hotsites-2020/img/icon_fechar.svg" alt="Fechar Modal" class="svg">
+            <img src="#" data-svg="icon_fechar.svg" alt="Fechar Modal" class="svg">
         </label>
         <nav>
             <label for="burguer-menu">
@@ -103,14 +102,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                     <a href="https://www.newlocequipamentos.com.br/" >Início</a>
                     <a href="#" >Produtos</a>
                     <a href="#" >Empresa</a>
-                    <a href="#" >Contato</a>
+                    <a href="https://www.newlocequipamentos.com.br/contato.html" >Contato</a>
             <hr class="hidden-xs">
 
             </div>
         </nav>
-        <a href="#" class="inscreva-se on hidden-lg" target="_blank">
-            <span></span>
-        </a>
     </div>
 
     
@@ -119,21 +115,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     <section id="banner" class="">
         <div class="bgWrapper">
             <div class="mobile">
-                                    <img src="../wp-content/uploads/2023/06/Copy-of-banner-mob.png" alt="Background">
+                                    <img src="assets/banner-produtos-mobile.png" alt="Background">
                             </div>
             <div class="hd">
-                                    <img src="../wp-content/uploads/2023/06/Copy-of-banners-desk-newloc.png" alt="Background">
+                                    <img src="assets/banner-produtos-desk.png" alt="Background">
                             </div>
         </div>
-
-        <!-- <img src="" alt="Evento Gratuíto" class="free-label"> -->
 
         <div class="container">
             <div class="content-wrapper">
                 <div class="title-wrapper">
                     <img src="#" class="banner-logo" alt="">
-                    <!-- <h2 class="first-phrase"></h2>
-                    <h2 class="second-phrase"></h2> -->
                 </div>
                 <p class="text"></p>
 				
@@ -144,7 +136,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     </section>
 
     <script>
-        var url = "http://localhost/www.newlocequipamentos.com.br"
+        var url = "http://www.newlocequipamentos.com.br"
         fetch('produtos.json')
             .then(response => response.json())
             .then(data => {
@@ -160,7 +152,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                             "<h1>"+prod1.produto+"</h1>" +
                                             "<div class='sobre esquerda'>" +
                                                 "<div class='imgs-bg'>" +
-                                                    "<img src='"+url+"/wp-content/imagens/"+prod1.imagem+"'>" +
+                                                    "<img src='"+url+"/produtos/"+prod1.imagem+"'>" +
                                                     "<div class='boxLaranja'></div>" +
                                                 "</div>" +
                                                 "<div class='cardEvento cardEsquerda'>" +
@@ -176,7 +168,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                             "<h1>"+prod2.produto+"</h1>" +
                                             "<div class='sobre'>" +
                                                 "<div class='imgs-bg'>" +
-                                                    "<img src='"+url+"/wp-content/imagens/"+prod2.imagem+"'>" +
+                                                    "<img src='"+url+"/produtos/"+prod2.imagem+"'>" +
                                                     "<div class='boxLaranja'></div>" +
                                                 "</div>" +
                                                 "<div class='cardEvento cardDireita'>" +
@@ -192,9 +184,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             .catch(error => console.error(error));
     
     </script>
-    <section id="sobreEvento">
-
-	</section>
 
     <section id="percurso" class="percursos padding-section-menor">
         
@@ -248,76 +237,46 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
         </style>
     </section>
 
-<div class="modal-grupos">
-	<div class="content">
-		<h1>inscrições em grupo</h1>
-		<h2>Monte sua equipe com 20 participantes ou mais e desfrute de todas essas vantagens!</h2>
-		<div class="conteudo-grupos">
-			<div class="titulo">
-				<i class="fas fa-thumbs-up"></i>
-				<h3> Conheça as<br>vantagens</h3>
-			</div>
-			<div class="conteudo">
-				<ul>
-					<li><i class="fas fa-angle-right"></i> Até 20% de desconto no valor da inscrição;</li>
-					<li><i class="fas fa-angle-right"></i> Preço fixo. Sem virada de lote;</li>
-					<li><i class="fas fa-angle-right"></i> A cada 20 inscrições pagas o grupo ganha 1 inscrição cortesia;</li>
-					<li><i class="fas fa-angle-right"></i> Maior prazo para pagamento;</li>
-					<li><i class="fas fa-angle-right"></i> Espaço reservado para montagem de tendas;</li>
-					<li><i class="fas fa-angle-right"></i> Área administrativa para inscrições de seus atletas.</li>
-				</ul>
-			</div>
-		</div>
-		<p class="aviso">O ATIVO.COM INFORMA QUE NÃO POSSUI REPRESENTANTES COMERCIAIS QUE, AGINDO EM
-NOME DA EMPRESA, REALIZAM INSCRIÇÕES EM GRUPO PARA EVENTOS ESPORTIVOS."</p>
-		<h3>Entre em contato</h3>
-		<p class="contato"><span>(11)</span> 4590-0035 | <a href="mailto:grupos@ativo.com"><span>grupos</span>@ativo.com</a></p>
-		<a href="#" class="close-grupos" title="Fechar"><span></span></a>
-	</div> 
-</div>
-        	<section id="footer-basico">
+    <section id="footer-basico">
 
-		<div class="container">
-			
-			<div class="logoTexto">
-				<img src="#" alt="Logo Evento">
-				<p>É com grande satisfação que apresentamos a Newloc, uma empresa dedicada à locação de máquinas e equipamentos para a construção civil. Com anos de experiência no mercado, nossa equipe está comprometida em oferecer soluções sob medida para os desafios do setor da construção, auxiliando nossos clientes a atingirem seus objetivos de maneira eficiente e econômica.</p>
-			</div>
+        <div class="container">
+            
+            <div class="logoTexto">
+                <img src="assets/newloc-logotipo.png" alt="Logo Evento">
+                <p>É com grande satisfação que apresentamos a Newloc, uma empresa dedicada à locação de máquinas e equipamentos para a construção civil. Com anos de experiência no mercado, nossa equipe está comprometida em oferecer soluções sob medida para os desafios do setor da construção, auxiliando nossos clientes a atingirem seus objetivos de maneira eficiente e econômica.</p>
+            </div>
 
-			<div class="news">
-				<h4>Encontre-nos nas redes socias</h4>
-				<ul>
-																																																																																														</ul>
-			</div>
+            <div class="news">
+                <h4>Encontre-nos nas redes socias</h4>
+                <ul>
+                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+            </div>
 
-			<div class="links">
-				<ul>
-					<li><a href="#" target="_blank">Facebook</a></li>
-					<li><a href="#" target="_blank">Instagram</a></li>
-				</ul>
-			</div>
+            <div class="links">
+                <ul>
+                    <li><a href="#" target="_blank">Facebook</a></li>
+                    <li><a href="#" target="_blank">Instagram</a></li>
+                </ul>
+            </div>
 
-		</div>
+        </div>
 
 
-	</section>
-	<footer id="footer">
-		<div class="logos">
-			<img src="#">
-		</div>
-		<div class="box-descricao">
-			<p>© 2023 NEWLOC LOCAÇÃO DE EQUIPAMENTOS | Design by <a href="https://www.mobspot.com.br/" target="_blank">MobSpot</a></p>
-		</div>
-	</footer>
+    </section>
+
+    <footer id="footer">
+        <div class="logos">
+            <img src="assets/newloc-logotipo-1.png">
+        </div>
+        <div class="box-descricao">
+            <p>© 2023 NEWLOC LOCAÇÃO DE EQUIPAMENTOS | Design by <a href="https://www.mobspot.com.br/" target="_blank">MobSpot</a></p>
+        </div>
+    </footer>
 </main>
 
 <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
-<script type="text/javascript" src="../wp-content/themes/hotsites-2020/js/libs/libs.min.js"></script>
-<script type="text/javascript" src="../wp-content/themes/hotsites-2020/js/scripts.min.js"></script>
-<script type="text/javascript">
-    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent))
-        document.write('<script type="text\/javascript" src="../wp-content/themes/hotsites-2020/index.html\/js\/ie\/scripts-ie.min.js"><\/script>');
-</script>
+<script type="text/javascript" src="js/libs/libs.min.js"></script>
+<script type="text/javascript" src="js/scripts.min.js"></script>
 
 </body>
 </html>
