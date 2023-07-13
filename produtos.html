@@ -45,9 +45,34 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     .cardDireita p{
         text-align: right!important;
     }
+    .vermais{
+        margin-top:30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-sizing: border-box;
+        width: 214px;
+        height: 65px;
+        border-radius: 54px;
+        text-align: center;
+        font-family: Kanit,sans-serif;
+        font-size: 18px;
+        line-height: 77px;
+        font-weight: 700;
+        letter-spacing: 0;
+        color: #fff;
+        background: #38b6ff;
+        box-shadow: 0 3px 0 1px #192957;
+    }
     @media screen and (min-width: 1024px){
         .imgs-bg img{
             object-fit: fill!important;
+        }
+    }
+    @media screen and (max-width: 765px){
+        #sobreEvento{
+            margin-top:0px;
+            padding:0;
         }
     }
 </style>
@@ -148,12 +173,14 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                 "</div>" +
                                                 "<div class='cardEvento cardEsquerda'>" +
                                                     "<p>"+prod1.descricao+"</p>"+
+                                                    "<div class='vermais'>" +
+                                                        "<a href='"+url+"/produto.php?name="+prod1.imagem+"'>"+" VEJA MAIS" +"</a>" +
+                                                    "</div>" +
                                                 "</div>"+
                                             "</div>"+
+                                            
                                         "</div>"
                     
-                    console.log(url+"/produtos/"+prod1.imagem);
-
                     const div2 = document.createElement('div');
                     div2.classList.add('containerSobre');
                     div2.classList.add('direita')
@@ -166,11 +193,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                                                 "</div>" +
                                                 "<div class='cardEvento cardDireita'>" +
                                                     "<p>"+prod2.descricao+"</p>"+
+                                                    "<div class='vermais'>" +
+                                                        "<a href='"+url+"/produto.php?name="+prod2.imagem+"'>"+" VEJA MAIS" +"</a>" +
+                                                    "</div>" +
                                                 "</div>"+
                                             "</div>"+
                                         "</div>"
-
-                    console.log(url+"/produtos/"+prod2.imagem);
 
                     produtosLista.appendChild(div1);
                     produtosLista.appendChild(div2);
