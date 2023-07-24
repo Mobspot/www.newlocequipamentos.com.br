@@ -32,9 +32,11 @@
                 <div class="title-wrapper">
                     <img src="assets/newloc-logotipo-1.png" class="banner-logo" alt="">
                 </div>
-                <p class="text"></p>
-                <a href='https://api.whatsapp.com/send?phone=5511981349241' class='subscription-button'><img src='assets/zap-ico.png'>CONTATO</a>
-                <img src="assets/marcas-newloc.png" alt="" class="ministry-logo">
+                <p class="text" style="max-width:600px; font-size:22px; color:#192957;">
+                    Newloc se tornou especialista e referência no segmento, com uma visão privilegiada na hora de planejar, dimencionar e
+                    adequar os fatores e equipamentos necessários para cada projeto de contrução. Conosco você conta com uma variedade de 
+                    equipamentos e ferramentas para qualquer etapa da sua obra.
+                </p>
             </div>
         </div>
         
@@ -43,16 +45,30 @@
     <section id="sobreEvento">
         <div class="containerSobre">
             <div class="container">
-                <h1 class="hidden-xs">A NEWLOC</h1>
+                <h1 class="hidden-xs">Missão, Visão e Valores</h1>
                 <div class="sobre esquerda">
                     <img src="assets/andaimes-fachadeiro.png" class="hidden-lg" alt="">
                     <div class="imgs-bg">
-                        <img src="assets/andaimes-fachadeiro.png" class="hidden-xs" alt="">
+                        <img src="assets/valores.png" class="hidden-xs" alt="">
                         <div class="boxLaranja hidden-xs"></div>
                     </div>
                     <div class="cardEvento">
-                        <h1 class="hidden-lg">A NEWLOC</h1>
-                        <span class="hidden-xs">É com grande satisfação que apresentamos a Newloc, uma empresa dedicada à locação de máquinas e equipamentos para a construção civil. Com anos de experiência no mercado, nossa equipe está comprometida em oferecer soluções sob medida para os desafios do setor da construção, auxiliando nossos clientes a atingirem seus objetivos de maneira eficiente e econômica.</span>
+                        <h1 class="hidden-lg">Missão, Visão e Valores</h1>
+                        <span class="hidden-xs">
+                            <ul>
+                                <li>
+                                    Visão - Ser reconhecido como um líder nacional no sertor de locação de equipamentos, proporcionando de forma
+                                    consistente, aos nossos clientes, os melhores equipamentos, mantendo a qualidade e a pontualidade na entrega
+                                    dos serviços.
+                                </li>
+                                 <li>
+                                    Missão - Ser transparente, manter a qualidade e a pontualidade em nossos serviços.
+                                </li>
+                                 <li>
+                                    Valores - Nososs valores constituem a base sobre a qual estabelecemos a nossa atividade e comportamento.
+                                </li>
+                            </ul>
+                        </span>
                         <p class="hidden-lg">É com grande satisfação que apresentamos a Newloc, uma empresa dedicada à locação de máquinas e equipamentos para a construção civil. Com anos de experiência no mercado, nossa equipe está comprometida em oferecer soluções sob medida para os desafios do setor da construção, auxiliando nossos clientes a atingirem seus objetivos de maneira eficiente e econômica.</p>
                     </div>
                 </div>
@@ -94,64 +110,64 @@
                 <img src="#">
             </div>
                                         <div class="info">
-                <img src="produtos/compressor-de-pintura-140lbs.jpg" alt="Background Info" class="bg">
+                <img src="produtos/compressor-de-pintura-40lbs.jpg" alt="Background Info" class="bg">
                 <!-- <h3 class="hidden-xs">Compressor de Pintura 140Lbs</h3> -->
                 <div class="hover">
-                    <h3>Compressor de Pintura 140Lbs</h3>
+                    <h3>COMPRESSOR DE PINTURA 40LBS</h3>
                                         </div>
             </div>
                                         <div class="info">
-                <img src="produtos/motor-vibrador-a-gasolina.jpg" alt="Background Info" class="bg">
+                <img src="produtos/motor-vibrador-eletrico.jpg" alt="Background Info" class="bg">
                 <!-- <h3 class="hidden-xs">Motor Vibrador a Gasolina</h3> -->
                 <div class="hover">
-                    <h3>Motor Vibrador a Gasolina</h3>
+                    <h3>MOTOR VIBRADOR ELÉTRICO</h3>
                                         </div>
             </div>
                                         <div class="info">
-                <img src="produtos/compressor-pneumatico-92-pcm.jpg" alt="Background Info" class="bg">
+                <img src="produtos/esmerilhadeira-angular-4-1-2.jpg" alt="Background Info" class="bg">
                 <!-- <h3 class="hidden-xs">Compressor Pneumático 92 PCM</h3> -->
                 <div class="hover">
-                    <h3>Compressor Pneumático 92 PCM</h3>
+                    <h3>ESMERILHADEIRA ANGULAR 4 1/2'</h3>
                                         </div>
             </div>
                                         <div class="info">
-                <img src="produtos/serra-circular-7.jpg" alt="Background Info" class="bg">
+                <img src="produtos/serra-clipper-a-gasolina-ou-eletrica.jpg" alt="Background Info" class="bg">
                 <!-- <h3 class="hidden-xs">Serra Circular 7”</h3> -->
                 <div class="hover">
-                    <h3>Serra Circular 7”</h3>
+                    <h3>SERRA CLIPPER A GASOLINA OU ELÉTRICA</h3>
                                         </div>
             </div>
                                         <div class="info">
-                <img src="produtos/serra-marmore.jpg" alt="Background Info" class="bg">
+                <img src="produtos/serra-tico-tico.jpg" alt="Background Info" class="bg">
                 <!-- <h3 class="hidden-xs">SERRA MARMORE</h3> -->
                 <div class="hover">
-                    <h3>SERRA MARMORE</h3>
+                    <h3>SERRA TICO - TICO</h3>
                                         </div>
             </div>
                                         <div class="info">
-                <img src="produtos/furadeira-e-parafusadeira-eletrica.jpg" alt="Background Info" class="bg">
+                <img src="produtos/martelo-rompedor-10kg.jpg" alt="Background Info" class="bg">
                 <!-- <h3 class="hidden-xs">KIT FURADEIRA </h3> -->
                 <div class="hover">
-                    <h3>KIT FURADEIRA </h3>
+                    <h3>MARTELO ROMPEDOR 10KG</h3>
                                         </div>
             </div>
                                         <div class="info">
-                <img src="produtos/misturador-de-argamassa.jpg" alt="Background Info" class="bg">
+                <img src="produtos/bomba-lameira-4-polegadas.jpg" alt="Background Info" class="bg">
                 <!-- <h3 class="hidden-xs">Compressor de Pintura 175Lbs</h3> -->
                 <div class="hover">
-                    <h3>Compressor de Pintura 175Lbs</h3>
+                    <h3>BOMBA LAMEIRA 4'</h3>
                                         </div>
             </div>
                                         <div class="info">
-                <img src="produtos/compressor-de-pintura-175lbs.jpg" alt="Background Info" class="bg">
+                <img src="produtos/guincho-de-coluna.jpg" alt="Background Info" class="bg">
                 <!-- <h3 class="hidden-xs">Misturador de Argamassa</h3> -->
                 <div class="hover">
-                    <h3>Misturador de Argamassa</h3>
+                    <h3>GUINCHO DE COLUNA</h3>
                                         </div>
             </div>
-                    <a class="hidden-lg" href="#" target="_blank" rel="noopener noreferrer">Veja Mais</a>
+                    <a class="hidden-lg" href="https://www.newlocequipamentos.com.br/produtos.php" target="_blank" rel="noopener noreferrer">Veja Mais</a>
         </div>
-            <a class="hidden-xs" href="#" target="_blank" rel="noopener noreferrer">Veja Mais</a>
+            <a class="hidden-xs" href="https://www.newlocequipamentos.com.br/produtos.php" target="_blank" rel="noopener noreferrer">Veja Mais</a>
 
     </section>
 
