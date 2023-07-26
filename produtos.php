@@ -41,11 +41,18 @@
         background: #38b6ff;
         box-shadow: 0 3px 0 1px #192957;
     }
+    .imgs-bg img{
+            object-fit: contain!important;
+            background-color: white!important;
+        }
     @media screen and (min-width: 1024px){
         .imgs-bg img{
-            object-fit: fill!important;
+            object-fit: contain!important;
+            background-color: white!important;
+
         }
     }
+    
     @media screen and (max-width: 765px){
         #sobreEvento{
             margin-top:0px;

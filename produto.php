@@ -20,9 +20,14 @@
     #sobreEvento{
         margin-top:80px;
     }
+    .imgs-bg img{
+            object-fit: contain!important;
+            background-color: white!important;
+        }
     @media screen and (min-width: 1024px){
         .imgs-bg img{
-            object-fit: fill!important;
+            object-fit: contain!important;
+            background-color: white!important;
         }
     }
     @media screen and (max-width: 765px){
