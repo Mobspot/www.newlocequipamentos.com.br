@@ -88,7 +88,7 @@
     
     <section id="sobreEvento"></section>
 
-    <?php include('resumeProdutos.php');?>
+    <?php include('resumeProdutos.html');?>
 
     <?php include('footer.html');?>
 

@@ -100,7 +100,7 @@
         <div class="bg"><span>COMPROMISSO COM A QUALIDADE</span></div>
     </section>
 
-    <?php include('resumeProdutos');?>
+    <?php include('resumeProdutos.html');?>
 
     <section id="paralax" style="background-image: url('assets/paralax-scaled.jpg')"></section>
     <section id="compromisso">
