@@ -7,11 +7,13 @@
 </head>
 
 <style>
-    .cardEvento ul{
+    .cardEvento ul, p{
         font-size: 1.2rem!important;
         font-weight: 200!important;
+        padding-bottom: 20px;
     }
-    .cardEsquerda ul{
+
+    .cardEsquerda ul, p{
         text-align: left!important; 
         line-height: 30px; 
         color:white;

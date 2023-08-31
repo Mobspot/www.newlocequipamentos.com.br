@@ -149,9 +149,9 @@
                     <h3>Misturador de Argamassa</h3>
                                         </div>
             </div>
-                    <a class="hidden-lg" href="#" target="_blank" rel="noopener noreferrer">Veja Mais</a>
+                    <a class="hidden-lg" href="https://www.newlocequipamentos.com.br/produtos.php" rel="noopener noreferrer">Veja Mais</a>
         </div>
-            <a class="hidden-xs" href="#" target="_blank" rel="noopener noreferrer">Veja Mais</a>
+            <a class="hidden-xs" href="https://www.newlocequipamentos.com.br/produtos.php" rel="noopener noreferrer">Veja Mais</a>
 
     </section>
 
