@@ -21,307 +21,307 @@
     },
     {
       "produto": "Tensor para Fôrma",
-      "descricao": "Dispositivo essencial para tensionar e fixar formas de concreto durante a construção. Garante estabilidade estrutural, facilita o processo de concretagem e garante a qualidade das estruturas.",
+      "descricao": "Apropriado para travamento de fôrma<ul></li><li>Produto fabricado em aço carbono, com furos para receber barras de aço de ¼”, serve para travamento de fôrmas.</li><li>Aplicação: Utilizado em conjunto com o \"Esticador\" (fornecido separadamente), pode ser aplicado em travamentos de fôrmas de blocos, sapatas, cintas, pilares, vigas, paredes, reservatórios e estruturas de concreto em geral.</li></ul>",
       "imagem": "tensor-para-forma.jpg"
     },
     {
       "produto": "Escada Extensiva",
-      "descricao": "Escada versátil com múltiplas extensões que permite alcançar diferentes alturas com segurança. Ideal para trabalhos em altura, manutenção e construção, oferecendo estabilidade e facilidade de uso.",
+      "descricao": "A linha completa de Escada de Fibra e Escada de Alumínio oferece soluções versáteis para diversas necessidades:<ul><li>Escada de Fibra: Leve, resistente e não conduz eletricidade. Equipada com roldana de nylon, degraus tubulares, catraca fundida em alumínio e sapata de borracha anti-derrapante. Indicada para manutenção em redes elétricas, manutenção industrial e predial.</li><li>Escada de Alumínio: Fabricada em liga de duralumínio, é leve e resistente. Possui base larga para maior apoio, sapata de borracha anti-derrapante, sistema e ganchos para abrir e estender. Indicada para serviços de pintura e manutenção em geral.</li></ul>",
       "imagem": "escada-extensiva.jpg"
     },
     {
       "produto": "Compactador a Gasolina",
-      "descricao": "Equipamento a gasolina para compactação de solo em obras. Proporciona maior densidade e estabilidade, ideal para fundações, pisos e aterros, garantindo uma base sólida e segura.",
+      "descricao": "<ul><li>CxLxH: 710 x 365 x 990 mm</li><li>Tamanho da sapata: 280 x 330</li><li>Peso de transporte: 66 kg</li><li>Profundidade de compactação: 58 cm</li><li>Golpe: 65 mm</li><li>Força/golpe: 13,4 kN.</li></ul>",
       "imagem": "compactador-a-gasolina.jpg"
     },
     {
       "produto": "Compactador Elétrico",
-      "descricao": "Compactador elétrico para compactação do solo em áreas de difícil acesso ou onde o uso de gasolina é limitado. Leve e eficiente, é ideal para trabalhos de menor porte, mantendo a qualidade da compactação.",
+      "descricao": "<ul><li>Compactador de solo elétrico monofásico oferece melhor resultado final, promovendo base sólida e firme, que é a primeira etapa da construção.</li><li>Especificações Técnicas:<ul><li>Tensão: 220V</li><li>Modelo: SP 55 Elétrico</li><li>Motor: Elétrico Monofásico 3CV</li><li>Transmissão: Embreagem centrífuga e engrenagens</li><li>Dimensões da sapata C X L: 270 x 350mm</li><li>Peso seco: 81Kg</li><li>Dimensões C X L X A: 680 x 340 x 1020mm</li><li>Golpes por minuto: até 620</li><li>Força do golpe: 14,8KN (1510Kgf)</li><li>Velocidade de avanço: 13 a 16m/min</li><li>Curso: 65mm</li><li>Profundidade de compactação - solos granulares: (areia, brita, bases) até 600mm</li><li>Profundidade de compactação - solos coesivos: argilosos até 500mm</li><li>Óleo da percussão / Capacidade: SAE 40 / 750ml</li></ul></li></ul>",
       "imagem": "compactador-eletrico.jpg"
     },
     {
       "produto": "Placa Vibratória a Gasolina",
-      "descricao": "Placa vibratória movida a gasolina para compactação de solo em áreas restritas. Proporciona maior eficiência, rapidez e densidade, sendo ideal para calçadas, jardins e pequenas obras.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Força centrífuga (kgf): 1.500</li><li>Frequência de vibração (vpm): 6.000</li><li>Velocidade de trabalho (m/min): 25</li><li>Potência do motor: 5,5 HP 4 Tempos</li><li>Dimensão da base (CxL) (mm): 525x500</li></ul></li></ul>",
       "imagem": "placa-vibratoria-a-gasolina.jpg"
     },
     {
       "produto": "Compressor Pneumático 92 PCM",
-      "descricao": "Compressor pneumático com capacidade de 92 PCM (pés cúbicos por minuto). Ideal para alimentar ferramentas pneumáticas, como pistolas de pintura, lixadeiras e grampeadores, garantindo maior produtividade e desempenho.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>PCM: 92</li><li>Pressão: (bar) 7</li><li>Motor: Kubota</li><li>Modelo: M27</li><li>Marca: Kaeser</li><li>Combustível: Diesel</li><li>Peso: 498Kg</li><li>Capacidade do Tanque: 30 Litros</li><li>Dimensões: 1260 x 1200 x 2853mm</li></ul></li></ul>",
       "imagem": "compressor-pneumatico-92-pcm.jpg"
     },
     {
       "produto": "Compressor Pneumático 150 PCM",
-      "descricao": "Compressor pneumático com capacidade de 150 PCM (pés cúbicos por minuto). Versátil e potente, adequado para uso com diversas ferramentas pneumáticas, como martelos, chaves de impacto e pistolas de ar.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>PCM: 150</li><li>Pressão: (bar) 7</li><li>Motor: Kubota</li><li>Modelo: M43</li><li>Marca: Kaeser</li><li>Combustível: Diesel</li><li>Peso: 730Kg</li><li>Capacidade do Tanque: 80 Litros</li><li>Dimensões: 1440 x 1350 x 3430mm</li></ul></li></ul>",
       "imagem": "compressor-pneumatico-150-pcm.jpg"
     },
     {
       "produto": "Compressor Pneumático 200 PCM",
-      "descricao": "Compressor pneumático com capacidade de 200 PCM (pés cúbicos por minuto). Indicado para operações que exigem alta potência, proporcionando fluxo constante de ar para ferramentas pesadas e de alto consumo.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>PCM: 200</li><li>Pressão: (bar) 7</li><li>Motor: Kubota</li><li>Modelo: M57</li><li>Marca: Kaeser</li><li>Combustível: Diesel</li><li>Peso: 1225Kg</li><li>Capacidade do Tanque: 105 Litros</li><li>Dimensões: 1680 x 1500 x 3780 mm</li></ul></li></ul>",
       "imagem": "compressor-pneumatico-200-pcm.jpg"
     },
     {
       "produto": "Compressor de Pintura 140Lbs",
-      "descricao": "Compressor de pintura com capacidade de 140 libras. Permite uma aplicação de tinta eficiente e uniforme em projetos de pintura, garantindo um acabamento profissional e economizando tempo e esforço.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Modelo: CSL - 10/100L - Schulz</li><li>Diâmetro de saída: (pol)1/4</li><li>Número de pistão: 2L</li><li>Tensão: 220V</li><li>Peso Bruto: 97Kg</li><li>Peso Líquido: 72Kg</li><li>Rpm: 860</li><li>Tipo de motor: A</li><li>Volume do reservatório: 100 Litros</li><li>Libras: 140 Lbs</li></ul></li></ul>",
       "imagem": "compressor-de-pintura-140lbs.jpg"
     },
     {
       "produto": "Compressor de Pintura 175Lbs",
-      "descricao": "Compressor de pintura com capacidade de 175 libras. Ideal para trabalhos de médio a grande porte, proporciona pressão adequada para pintura de superfícies maiores, como paredes e fachadas.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Tensão: 220 / 380V</li><li>Deslocamento teórico: 40 PCM / 1132L/min</li><li>Máxima: 175Lbf/Pof (12bar)</li><li>Mínima: 135 Lbf/Pof (9,3 bar)</li><li>Número de Estágios: 2</li><li>Número de Pistões: 3-V</li><li>Potência do motor: 10hp / 7,5KW</li><li>Número de Polos: 4</li><li>Volume do Reservatório: 425 Litros</li><li>Dimensões: L650mm x A1380mm X C1990mm</li></ul></li></ul>",
       "imagem": "compressor-de-pintura-175lbs.jpg"
     },
     {
       "produto": "Compressor de Pintura 40Lbs",
-      "descricao": "Compressor de pintura com capacidade de 40 libras. Compacto e versátil, é indicado para pequenos trabalhos e retoques, permitindo uma aplicação precisa e eficiente de tintas e vernizes.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Vazão: 2,3 Pés/min / 65L/min</li><li>Pressão Máxima: 40 Lbs/Pof / 2,8 Bar</li><li>Potência do motor: 1/3 hp - 250 w</li><li>Peso Bruto: 14,6 Kg</li><li>Peso Líquido: 13,6 Kg</li><li>Dimensões: L165 x A240 x C335 mm</li><li>Tensão: 220V</li></ul></li></ul>",
       "imagem": "compressor-de-pintura-40lbs.jpg"
     },
     {
       "produto": "Betoneira 400 Litros",
-      "descricao": "Betoneira de 400 litros para mistura de concreto. Facilita o trabalho de preparação de concreto em obras, proporcionando uma mistura homogênea e de alta qualidade, agilizando o processo construtivo.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Capacidade do tambor: 400 litros</li><li>Capacidade de mistura: 310 litros</li><li>Quantidade de ciclos/hora: 15</li><li>Rotação do tambor: 30 rpm</li><li>Potência do motor: 2 CV / Monofásico</li><li>Tensão: 220V Monofásica ou Trifásica</li></ul></li></ul>",
       "imagem": "betoneira-400-litros.jpg"
     },
     {
       "produto": "Acabadora de Superfície",
-      "descricao": "Máquina utilizada para nivelar e dar acabamento em superfícies de concreto. Proporciona um acabamento liso e uniforme, reduzindo a necessidade de trabalho manual e garantindo um resultado profissional.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Indicada para serviços de alisamento em piso de concreto.</li><li>Motor 4 tempos a gasolina comum, não precisa adicionar óleo na mistura, trabalha com 4 lâminas (pás) com uma área de abrangência de 90cm.</li><li>Trabalha com sistema de embreagem.</li><li>Autonomia por tanque aproximadamente 03 horas.</li><li>Capacidade do tanque: 6 litros.</li><li>O jogo de lâminas tem um rendimento de aproximadamente 400m².</li><li>Na locação deste equipamento é necessário efetuar a compra do jogo de pás ou disco de flotação, dependendo do serviço a ser realizado.</li></ul></li></ul>",
       "imagem": "acabadora-de-superficie.jpg"
     },
     {
       "produto": "Mangote 25,35,40 e 60mm",
-      "descricao": "Mangote flexível de diferentes diâmetros (25, 35, 40 e 60mm) para bombeamento de concreto. Utilizado em conjunto com vibradores, permite a compactação e adensamento do concreto em diversas aplicações.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Mangote vibrador de imersão 25, 35, 45 a 60mm.</li><li>Modelo: WVB</li><li>Peso: 25Kg</li><li>Vibração: VPM 12500</li><li>Comprimento: Metros 4 e 5</li></ul></li></ul>",
       "imagem": "mangote-25-35-40-e-60mm.jpg"
     },
     {
       "produto": "Misturador de Argamassa",
-      "descricao": "Equipamento utilizado para misturar argamassa de forma rápida e eficiente. Ideal para obras de alvenaria, azulejaria e revestimentos, garantindo uma mistura homogênea e de qualidade.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Temos os seguintes tamanhos: 120; 300; 510 e 600kg</li><li>Tempo de mistura: 2 minutos</li><li>Produção: até 3.600Kg / hora</li></ul></li><li>Características elétricas:<ul><li>Voltagens disponíveis: 220V monofásico, 220V trifásico ou 380V trifásico</li><li>Acionamento: Moto-redutor de 3CV – 2,2kW</li></ul></li></ul>",
       "imagem": "misturador-de-argamassa.jpg"
     },
     {
       "produto": "Motor Vibrador a Gasolina",
-      "descricao": "Motor vibrador a gasolina para adensamento do concreto. Proporciona uma vibração eficaz, garantindo a homogeneidade e a resistência do concreto em obras onde não há acesso à energia elétrica.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Motor a gasolina de 5,5HP</li><li>Partida Manual</li><li>Engate universal</li><li>Utilizado na construção civil, engenharias em situações onde não há energia e obras em campo.</li></ul></li></ul>",
       "imagem": "motor-vibrador-a-gasolina.jpg"
     },
     {
       "produto": "Motor Vibrador Elétrico",
-      "descricao": "Motor vibrador elétrico para adensamento do concreto. Proporciona uma vibração eficiente, garantindo a qualidade e a resistência do concreto em obras onde há acesso à energia elétrica.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Potência do motor: 1.5CV II Polos</li><li>Tensão: 220V Monofásico ou Trifásico</li><li>Rotação por minuto: 3600RPM</li><li>Base de Fixação fixa.</li></ul></li></ul>",
       "imagem": "motor-vibrador-eletrico.jpg"
     },
     {
       "produto": "Motor Vibrador Elétrico Portátil",
-      "descricao": "Motor vibrador elétrico portátil para adensamento do concreto. Compacto e de fácil manuseio, é ideal para trabalhos em locais de difícil acesso, proporcionando uma vibração eficaz e uniforme.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Equipamento utilizado para compactar os mais variados tipos de concreto, na confecção de colunas, vigas, sapatas, pisos e lajes.</li><li>Informações Técnicas:<ul><li>Modelo: GVC20EX</li><li>Peso: 5,5 kg</li><li>Potência: 1400 Watt</li><li>Motor elétrico: 220V</li><li>Acompanha mangote de 3,5mts</li></ul></li></ul></li></ul>",
       "imagem": "motor-vibrador-eletrico-portatil.jpg"
     },
     {
       "produto": "Esmerilhadeira Angular 4 1/2'",
-      "descricao": "Esmerilhadeira angular de 4 1/2' utilizada para cortar, desbastar e lixar materiais como metal, pedra e concreto. Oferece alto desempenho, precisão e segurança em trabalhos de acabamento e preparação.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Esmerilhadeira Angular 4 1/2\" 850W GWS 850 da marca Bosch possui alto rendimento dentro de seu orçamento.</li><li>Como o próprio nome diz, é ideal para esmerilhar, lixar e cortar metais.</li><li>Seu uso é indicado em serralherias, fundições, funilarias, metalúrgicas, departamentos de manutenção, construção civil, entre outros.</li><li>A esmerilhadeira possui uma melhor conveniência devido a sua empunhadura projetada para gerar o mínimo de fadiga ao se executar os projetos, que em conjunto com a sua potência adequada e maior controle para aplicações profissionais de pequeno porte oferecem a melhor qualidade e um ótimo acabamento.</li></ul></li></ul>",
       "imagem": "esmerilhadeira-angular-4-1-2.jpg"
     },
     {
       "produto": "Esmerilhadeira Angular 7' ou 9'",
-      "descricao": "Esmerilhadeira angular de 7' ou 9' utilizada para cortar, desbastar e lixar materiais resistentes, como metais e concreto. Oferece potência e durabilidade, sendo ideal para trabalhos pesados e industriais.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Esmerilhadeira Angular 7\" ou 9\" da marca Bosch possui alto rendimento dentro de seu orçamento.</li><li>Como o próprio nome diz, é ideal para esmerilhar, lixar e cortar metais.</li><li>Seu uso é indicado em serralherias, fundições, funilarias, metalúrgicas, departamentos de manutenção, construção civil, entre outros.</li><li>A esmerilhadeira possui uma melhor conveniência devido a sua empunhadura projetada para gerar o mínimo de fadiga ao se executar os projetos, que em conjunto com a sua potência adequada e maior controle para aplicações profissionais de pequeno porte oferecem a melhor qualidade e um ótimo acabamento.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "esmerilhadeira-angular-7-ou-9-polegadas.jpg"
     },
     {
       "produto": "Serra Circular 7'",
-      "descricao": "Serra circular de 7' para cortes precisos em madeira, MDF e outros materiais. Proporciona cortes rápidos e limpos, com ajustes de ângulo e profundidade, sendo amplamente utilizada na construção civil.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Excelente serra circular da Bosch destinada à realização de cortes retos nas direções longitudinal e transversal com base fixa, corte reto e em meia esquadria em madeira, enquanto estiver em contato firme com a peça de trabalho.</li><li>Serra Bosch com alta potência, profundidade máxima de corte de 184mm.</li></ul></li><li>Benefícios da serra circular GKS 20-65 Bosch:<ul><li>Escala de profundidade de corte de fácil leitura</li><li>A campeã das serras circulares de alto desempenho, com o motor mais potente da categoria (2.000W)</li><li>Dois pontos de visão para maior precisão nos cortes</li><li>Com ângulo de meia esquadria de 0º: 62mm</li><li>Com ângulo de meia esquadria de 45º: 46mm</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "serra-circular-7.jpg"
     },
     {
       "produto": "Serra Clipper a Gasolina ou Elétrica",
-      "descricao":"Serra clipper a gasolina ou elétrica utilizada para cortes rápidos em concreto, asfalto e materiais de alvenaria. Oferece potência e mobilidade, sendo essencial em trabalhos de demolição e construção.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>As cortadoras apresentam:</li><li>Rodas com rolamentos blindados de esferas</li><li>Tanque de água removível</li><li>Válvula para acoplamento direto da mangueira de água</li><li>Regulagem de profundidade de corte</li><li>Guia de corte dianteiro</li><li>Base para compensação do motor que garante a inclinação adequada</li><li>Dupla refrigeração no disco de corte</li><li>Não acompanha o Disco Diamantado, o mesmo será Venda</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "serra-clipper-a-gasolina-ou-eletrica.jpg"
     },
     {
       "produto": "Serra de Bancada",
-      "descricao": "Serra de bancada utilizada para cortes precisos em madeira e materiais similares. Proporciona estabilidade e segurança, com ajustes de ângulo e altura, sendo ideal para marcenarias e carpintarias.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Serra versátil e simples, com motor paralelo, coifa de proteção e chave elétrica</li><li>Motor: 5HP</li><li>Disco: 12” (Vendas)</li><li>Usada no corte de madeiras e tijolos na construção civil, bem como na indústria madeireira, no corte de lenha.</li><li>Não acompanha o Disco de Corte, o mesmo será Venda.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "serra-de-bancada.jpg"
     },
     {
       "produto": "Serra Mármore",
-      "descricao": "Serra mármore para cortes em materiais como mármore, granito, cerâmica e azulejos. Compacta e potente, oferece cortes precisos e limpos, sendo amplamente utilizada em obras e reformas.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Excelente serra mármore Makita com medidas menores que as outras serras mármore, que permite manuseio e habilidade.</li><li>Seu design compacto aliado ao baixo peso, diminui a fadiga e proporciona ao operador mais tempo de trabalho.</li><li>Com 1300W de potência e 2 Discos de Corte para Concreto, a serra mármore Makita 4100NH3ZX2 está pronta para encarar os desafios do dia a dia.</li><li>Não acompanha o Disco de Corte, o mesmo será Venda.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "serra-marmore.jpg"
     },
     {
       "produto": "Serra Policorte",
-      "descricao": "Serra policorte para cortes em metais, como ferro e aço. Proporciona cortes precisos e rápidos, com ajustes de ângulo e inclinação, sendo ideal para trabalhos de serralheria e estruturas metálicas.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Excelente serra policorte da Bosch indicada para cortar materiais ferrosos com um disco de corte abrasivo apropriado.</li><li>Serra policorte com motor de 2200W de potência, ideal para quem procura qualidade no corte de materiais ferrosos.</li><li>Tensão: 220v</li><li>Não acompanha o Disco de Corte, o mesmo será Venda.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "serra-policorte.jpg"
     },
     {
       "produto": "Serra Tico - Tico",
-      "descricao": "Serra tico-tico para cortes curvos e detalhados em madeira, plástico e outros materiais. Leve e fácil de manusear, oferece precisão e versatilidade em trabalhos de marcenaria e artesanato.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Incrível serra tico tico Makita indicada para serrar madeira, plástico e materiais metálicos.</li><li>Possui punho emborrachado com design ergonômico que proporciona um maior controle e conforto.</li><li>Devido à variedade de acessórios e lâminas de serra, a ferramenta pode ser usada para diferentes trabalhos e é apropriada para realizar cortes curvos ou circulares.</li><li>Tensão: 220v</li><li>Não acompanha a Lâmina, a mesma será Venda.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "serra-tico-tico.jpg"
     },
     {
       "produto": "Serra Sabre",
-      "descricao": "Serra sabre utilizada para cortes precisos em materiais diversos, como madeira, metal e plástico. Possui lâmina reciprocante que permite cortes rápidos e eficientes em diferentes aplicações, sendo amplamente utilizada em trabalhos de demolição, construção e manutenção.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>A serra sabre é utilizada para pré-instalação de encanamento, cortes em madeira e drywall, trabalho em posições incômodas, corte de cobre, corte de chapa metálica, corte de tubos metálicos e jardinagem.</li><li>Era o que faltava em sua caixa de ferramentas! Perfeita para ajustes rápidos em diferentes materiais, até em locais de difícil acesso!</li><li>Mais compacta: tamanho compacto para perfeito manuseio e capacidade de chegar em lugares apertados.</li><li>Progresso de corte: serra para cortar significativamente mais rápido que os competidores a bateria e outras soluções manuais.</li><li>Flexibilidade: versatilidade de aplicações em diferentes materiais!</li><li>Distância do golpe de 28mm</li><li>Tensão: 220v</li><li>Não acompanha a Lâmina, a mesma será Venda.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "serra-sabre.jpg"
     },
     {
       "produto": "Serra de Bancada p/ Bloco",
-      "descricao": "Serra de bancada para cortes em blocos de concreto e materiais similares. Proporciona cortes retos e precisos, com ajustes de ângulo e profundidade, sendo essencial em obras e construções.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Capacidade de corte do cortador de bloco de cimento: 660,0 mm</li><li>Capacidade de ângulo de corte da mesa: 45° e 90°</li><li>Diâmetro do disco indicado para o cortador de bloco de cimento: 400 mm x 25,4 mm</li><li>Medidas da mesa (C x L): 530 mm x 490 mm</li><li>Dimensões (C x L x A): 1090 mm x 630 mm x 1480 mm</li><li>Índice de proteção (IP): IP 54</li><li>Frequência: 60 Hz</li><li>Massa aproximada: 84 kg</li><li>Tensão: 220v</li><li>Não acompanha a Lâmina, a mesma será Venda.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "serra-de-bancada-para-bloco.jpg"
     },
     {
       "produto": "Martelo Rompedor 5kg Rotativo",
-      "descricao": "Martelo rompedor rotativo de 5kg para demolições e quebra de concreto.",
+      "descricao": "<ul><li>Características Técnicas:<ul><li>Potência: 1.100W</li><li>Força de impacto (EPTA): 8,5J</li><li>N° de rotações (sem carga): 170-340 min-¹</li><li>Impactos por minuto: 1.500 - 2900 min-¹</li><li>Máxima profundidade em perfuração em concreto: 40mm</li><li>Vibração perfuração/cinzelamento: 12,5/10,2 m/s²</li><li>Peso: 6,8KG</li><li>Tensão: 220v</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
       "imagem": "martelo-rompedor-5kg-rotativo.jpg"
     },
     {
     "produto": "Martelo Rompedor 5kg",
-    "descricao": "Martelo rompedor de 5kg para demolições e quebra de concreto. Proporciona alta potência e impacto, facilitando a remoção de estruturas sólidas em obras e construções.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Este equipamento destina-se a pequenas remoções em alvenaria.</li><li>Informações Técnicas:<ul><li>Potência: 1150W</li><li>N.º de Percussões: 1300-2900 min</li><li>Força de Impacto: 2-13 J</li><li>Ajustes para cinzelar: 12</li><li>Fixação da ferramenta: SDS Max</li><li>Peso: 6,2 kg</li><li>Voltagem: 220 volts</li></ul></li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "martelo-rompedor-5kg.jpg"
     },
     {
     "produto": "Martelo Rompedor 10kg",
-    "descricao": "Martelo rompedor de 10kg para demolições e quebra de concreto. Oferece potência e eficiência, sendo indicado para trabalhos de médio a grande porte, como remoção de pisos e fundações.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Especificações Técnicas:</li><li>Tensão: 220V</li><li>Potência: 1.150W</li><li>Impacto por minuto: 1.500 – 3.050 IPM</li><li>N° de rotações (sem carga): 170 - 340 R.P.M.</li><li>Força de impacto: 10/11 J – (Turbo Power)</li><li>Encaixe para o acessório: SDS Max</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "martelo-rompedor-10kg.jpg"
     },
     {
     "produto": "Martelo Rompedor 16 a 20kg",
-    "descricao": "Martelo rompedor de 16 a 20kg para demolições e quebra de concreto de grande porte. Oferece alta potência e impacto, adequado para trabalhos pesados, como demolição de estruturas robustas.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Equipamento utilizado para serviços de quebra de pisos em geral e quebra de lajes.</li><li>Informações Técnicas:<ul><li>Modelo: HM1500B</li><li>Peso: 20 kg</li><li>Potência: 1470 Watts</li><li>Motor elétrico: 220V</li></ul></li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "martelo-rompedor-16-a-20kg.jpg"
     },
     {
     "produto": "Martelo Rompedor 30kg",
-    "descricao": "Martelo rompedor de 30kg para demolições e quebra de concreto de grande porte. Proporciona potência extrema e alto impacto, ideal para trabalhos de demolição em estruturas sólidas e resistentes.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Equipamento utilizado para serviços de rompimento, próprio para pisos, lajes, asfalto em geral.</li><li>Informações Técnicas:<ul><li>Peso: 30 kg</li><li>Potência: 1900 Watts</li><li>Motor elétrico: 220V</li></ul></li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "martelo-rompedor-30kg.jpg"
     },
     {
     "produto": "Bomba Anauger",
-    "descricao": "Bomba Anauger para bombeamento de água em poços artesianos e cisternas. Possui alto desempenho e durabilidade, proporcionando um abastecimento eficiente e confiável de água.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>A Bomba Anauger 900 5G com potência de 450 watts é indicada para poço com diâmetro superior a 7 polegadas (180 mm)</li><li>Maior vazão da linha ANAUGER. Possui saída de 1 polegada, o que reduz o atrito na mangueira, condição ideal para as vazões que a bomba proporciona.</li><li>Excelente rendimento com maior vazões e atende às necessidades de água para uma residência.</li><li>Utilizada no abastecimento doméstico.</li><li>Tensão: 220v</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "bomba-anauger.jpg"
     },
     {
     "produto": "Bomba Lameira 3'",
-    "descricao": "Bomba lameira de 3' para drenagem de água limpa ou suja em obras e áreas alagadas. Oferece grande vazão e resistência, sendo adequada para esgotamento de águas pluviais e lama.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Potência: 5.5 Hp</li><li>Altura Máxima de elevação: 15m</li><li>Dimensões: 750 x 295 x 295 mm</li><li>Saída: 3\"</li><li>Vazão: 833L/min.</li><li>Peso: 72Kg</li><li>Voltagem: 220v Monofásico ou 220v Trifásico</li><li>Frequência: 60Hz</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "bomba-lameira-3-polegadas.jpg"
     },
     {
     "produto": "Bomba Lameira 4'",
-    "descricao": "Bomba lameira de 4' para drenagem de água limpa ou suja em obras e áreas alagadas. Proporciona alta vazão e resistência, sendo indicada para esgotamento de águas pluviais e lama.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Potência: 5.5 Hp</li><li>Altura Máxima de elevação: 15m</li><li>Dimensões: 750 x 295 x 295 mm</li><li>Saída: 4\"</li><li>Vazão: 833L/min.</li><li>Peso: 72Kg</li><li>Voltagem: 220v Monofásico ou 220v Trifásico</li><li>Frequência: 60Hz</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "bomba-lameira-4-polegadas.jpg"
     },
     {
     "produto": "Bomba Submersa 2', 3' ou 4'",
-    "descricao": "Bomba submersa de diferentes diâmetros (2', 3' ou 4') para drenagem e esgotamento de água em poços, cisternas e áreas alagadas. Proporciona eficiência e confiabilidade no bombeamento.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Potência: 1100 watts (1.5 CV)</li><li>RPM: 3420</li><li>Altura Máxima de elevação: 9m</li><li>Isolação: classe de isolação B</li><li>Saída: 2”, 3” ou 4”</li><li>Vazão: 416 L/min.</li><li>Peso: 18Kg</li><li>Voltagem: Monofásico 220v ou Trifásico 220v</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "bomba-submersa-2-3-4-polegadas.jpg"
     },
     {
     "produto":"Bomba Mangote 2'",
-    "descricao": "Bomba mangote de 2' para drenagem e esgotamento de água em obras e áreas alagadas. Possui alta vazão e resistência, sendo ideal para escoamento rápido de águas pluviais e lama.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>A bomba mangote é indicada para serviços pesados e pode ser utilizada para drenar água na construção civil.</li><li>Aplicação: Esgotamento de águas, drenagem de valas, fundações, manutenção de redes elétricas, telefônicas, etc.</li><li>Utilizada junto com o motor vibrador a Gasolina.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "bomba-mangote-2-polegadas.jpg"
     },
     {
     "produto": "Bomba Recalque",
-    "descricao": "Bomba de recalque para pressurização e transporte de água em sistemas hidráulicos. Oferece alta potência e eficiência, garantindo o abastecimento adequado de água em diferentes aplicações.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>6 Estágios Trifásico 220/380V</li><li>Potência: 3CV</li><li>Tensão: 220/380 V Trifásico</li><li>Nº de Estágios: 6 Estágios</li><li>Diâmetro de Sucção: 1″ (25,4 MM)</li><li>Diâmetro de Recalque: 3/4″ (19,05 MM)</li><li>Altura Máxima: 103 MCA</li><li>Vazão: 2,2 M³/H (2.200 LTS) a 100 MCA</li><li>Peso: 34 KG</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "bomba-recalque.jpg"
     },
     {
     "produto": "Cadeira Suspensa",
-    "descricao": "Cadeira suspensa utilizada em trabalhos em altura, como pintura e manutenção de fachadas. Proporciona segurança e conforto ao trabalhador, permitindo acesso a áreas de difícil alcance.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Desenvolvida para atender as áreas de construção civil e industrial em serviços de pintura, limpeza de fachadas, instalação de antenas, montagem e manutenção de tubulações externas e reparos gerais.</li><li>É o equipamento ideal para trabalhar em espaços exíguos e confinados.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "cadeira-suspensa.jpg"
     },
     {
     "produto": "Guincho de Coluna",
-    "descricao": "Guincho de coluna para movimentação vertical de cargas em obras e construções. Oferece capacidade de carga e segurança, facilitando o transporte de materiais em alturas elevadas.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Guincho de Coluna Menegotti 200 Kg, 30 Metros, Monofásico com Freio</li><li>O Guincho de Coluna Menegotti 200 Kg foi desenvolvido para a elevação de materiais em obras, com segurança e praticidade. Tornando muito mais fácil o acabamento de sua obra.</li><li>Exclusivo painel elétrico com proteção contra choques, colisões e possíveis impactos durante transporte e movimentação do guincho.</li><li>Este equipamento é indispensável para o trabalho de elevação de concreto, através de balde, em obras de prédios, edifícios, etc. Maior segurança e menor esforço para movimentação.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "guincho-de-coluna.jpg"
     },
     {
     "produto": "Guincho Tifor",
-    "descricao": "Guincho tifor para elevação e movimentação de cargas pesadas em espaços reduzidos. Proporciona alta capacidade de carga e controle preciso, sendo utilizado em obras e atividades industriais.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>O guincho de alavanca Tifor é, normalmente, usado para arrastar ou mover cargas, já que não é indicado para a elevação de cargas.</li><li>Apesar de possuir um manuseio facilitado, ele deve ser operado por profissionais experientes e especializados, que saibam garantir segurança máxima em cada aplicação.</li><li>Esse tipo de equipamento é fabricado com alumínio e outras peças feitas de aço, o que faz com que ele seja resistente às aplicações mais exigentes.</li><li>O comprimento do guincho de alavanca tifor padrão é de 20 metros, tamanho que permite um longo movimento e reduz o esforço durante a operação.</li><li>Além disso, o acessório ainda possui alavancas tubulares retráteis, responsáveis por garantir mais praticidade e funcionalidade.</li><li>Ao todo, o guincho possui 3 alavancas, que servem, respectivamente, para exercer as seguintes funções:</li><li>1. Tensionamento do cabo de aço</li><li>2. Desengate para liberar o cabo</li><li>3. Inverter a direção do cabo</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "guincho-tifor.jpg"
     },
     {
     "produto": "Guincho Velox",
-    "descricao": "Guincho velox para elevação e movimentação de cargas em obras e construções. Oferece alta velocidade e capacidade de carga, sendo ideal para trabalhos que exigem agilidade e eficiência.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Capacidade de Elevação: 300 kg</li><li>Velocidade de levantamento: 8,0 m / min</li><li>Cabo de aço: 5,5 mm</li><li>Número de cabos: 1</li><li>Comprimento do cabo de aço : 50 metros.</li><li>Motor elétrico: Trifásico 220V</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "guincho-velox.jpg"
     },
     {
     "produto": "Guincho Mini Grua 500kg",
-    "descricao": "Guincho mini grua de 500kg para elevação e movimentação de cargas em espaços compactos. Possui design portátil e capacidade de carga adequada para trabalhos de menor porte.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Guincho Elleva Max 500Kg 70m com Cabo de Aço Motor Trifásico Weg 380V (440V) 60HZ Menegotti</li><li>Compacto, robusto e com design moderno o Elleva MAX 500 oferece praticidade e rapidez de operação na movimentação de materiais nas obras.</li><li>Elleva MAX 500 une alta produtividade com máxima rentabilidade.</li><li>É um equipamento versátil, de fácil instalação e excelente mobilidade, considerado o mais seguro da categoria.</li><li>Com o exclusivo tripé treliçado que garante maior estabilidade e movimentação no deslocamento da carga</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "guincho-mini-grua-500kg.jpg"
     },
     {
     "produto": "Talha Manual de 1,2,3 ou 5 Toneladas",
-    "descricao": "Talha manual de diferentes capacidades (1, 2, 3 ou 5 toneladas) para elevação e movimentação de cargas. Proporciona segurança, controle e praticidade em operações de içamento.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Ideal para o içamento de cargas em obras, oficinas, indústrias, frigoríficos, sítios, enfim, em qualquer lugar onde seja necessária a elevação de objetos ou máquinas com segurança.</li><li>Dados técnicos:<ul><li>Modelo: TC 500</li><li>Capacidade de suspensão: 500 kgf (0,5 ton.)</li><li>Altura de elevação: 5 metros</li><li>Esforço necessário máximo: 221 N</li><li>Número de correntes de carga: 1</li><li>Tipo de corrente: elo</li><li>Peso: 12kg</li></ul></li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "tralha-manual-de-1-2-3-ou-5-toneladas.jpg"
     },
     {
     "produto": "Pistola Finca Pino HILT DX 36",
-    "descricao": "Pistola finca pino HILT DX 36 para fixação rápida e precisa de pinos em estruturas de concreto e aço. Oferece alta potência e desempenho, garantindo uma fixação segura eeficiente.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Usa pinos de 12 a 72 mm para fixar gastalho, forro suspenso e guias de drywall.</li><li>O finca pinos DX 36 da Hilt é ideal para fixar gastalho, forro suspenso e guias de drywall.</li><li>É utilizado em amarração de alvenaria e fixações elétricas hidráulicas.</li><li>A pólvora é a fonte de energia do DX 36, que pesa 2 kg e tem silenciador incorporado.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "pistola-finca-pino-hilt-dx-36.jpg"
     },
     {
     "produto": "Perfuratriz HILT DD200",
-    "descricao": "Perfuratriz HILT DD200 para perfuração de concreto, alvenaria e rochas. Oferece alta potência, durabilidade e precisão, sendo utilizada em obras, instalações elétricas e hidráulicas.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Capaz de perfurar em diâmetro máximo de 400 mm.</li><li>A Perfuratriz DD 200 é utilizada em perfuração para dutos de ar-condicionado e gases, instalações hidráulicas e passagem de bandejamento.</li><li>O motor, de 230 Volts de tensão, tem potência de 2.600 Watts. É capaz de perfurar em até 400 mm de diâmetro.</li><li>Possui três modos de velocidade que permitem diferentes formas de aplicação. Seu peso, com todos os sistemas instalados, é de 30 kg.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "perfuratrix-hilt-dd200.jpg"
     },
     {
     "produto": "Perfuratriz HILT DD 110",
-    "descricao": "Perfuratriz HILT DD 110 para perfuração de concreto e alvenaria. Proporciona potência e versatilidade em trabalhos de instalações e fixações, garantindo perfurações precisas e eficientes.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Perfuradora diamantada compacta e leve para chanfrar manualmente a seco em alvenaria em até 160 mm.</li><li>Faixa de diâmetro: 16 - 162 mm</li><li>Tensão nominal de entrada: 220 V</li><li>Material Base: Alvenaria</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "perfuratrix-hilt-dd-110.jpg"
     },
     {
     "produto": "Martelete Perfurador SDS Plus",
-    "descricao": "Martelete perfurador SDS Plus para perfuração e demolição em concreto e alvenaria. Oferece alta potência e durabilidade, sendo utilizado em obras e construções que exigem resistência.",
+    "descricao": "<ul><li>Características Técnicas:<ul><li>Martelete com perfuração rápida e sem esforço no concreto duro, devido à conjunção perfeita de todos os componentes do mecanismo de percussão.</li><li>Dados técnicos:<ul><li>Potência: 820 watts</li><li>Rotações s/ carga: 870 min-1</li><li>Impacto: 4850 min-¹</li><li>Joule: 2,4J</li><li>Voltagem: 220v</li></ul></li><li>Capacidade de Perfurar:<ul><li>Concreto: 24mm ø (máx) / 14 mm ø (recom.)</li><li>Metal: 13 mm ø</li><li>Madeira: 30 mm ø</li></ul></li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "martelete-perfurador-sds-plus.jpg"
     },
     {
     "produto": "Furadeira e Parafusadeira a Bateria",
-    "descricao": "Furadeira e parafusadeira a bateria para perfuração e fixação de materiais diversos. Oferece mobilidade e praticidade, sendo ideal para trabalhos em locais sem acesso à energia elétrica.",
+    "descricao": "<ul><li>Furadeira e Parafusadeira Bosch GSR 120-LI Chave de Impacto:<ul><li>Ferramenta com alto nível de torque e sistema de impacto que eliminam contragolpes, proporcionando maior força, velocidade e segurança.</li><li>A combinação ideal entre tamanho, velocidade e controle para aplicações exigentes.</li><li>Líder absoluta do segmento em autonomia de baterias.</li><li>Única chave de impacto do mercado com 2 velocidades.</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "furadeira-e-parafusadeira-a-bateria.jpg"
     },
     {
     "produto": "Furadeira e Parafusadeira Elétrica",
-    "descricao": "Furadeira e parafusadeira elétrica para perfuração e fixação de materiais. Proporciona potência, precisão e versatilidade, sendo indispensável em trabalhos de marcenaria e montagem de móveis.",
+    "descricao": "<ul><li>Furadeira e Parafusadeira com Controle de Torque:</li><li>Características:<ul><li>Controle de torque (24+1) e embreagem de segurança</li><li>Cabo de 4 metros</li><li>Duas velocidades: Melhor combinação de torque e velocidade para parafusamentos e perfurações</li><li>Interruptor eletrônico: Velocidade sob controle nos parafusamentos</li><li>Mandril sem chave de 0,8 a 10 mm</li></ul></li><li>Especificações Técnicas:<ul><li>Tensão: 220V</li><li>Potência: 400W</li><li>Número de rotações (sem carga): 0 – 450 / 1.400 min-1</li><li>Diâmetro máximo parafuso: 7mm</li><li>Torque: 10,3Nm</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "furadeira-e-parafusadeira-eletrica.jpg"
     },
     {
     "produto": "Aspirador de Pó 70 Litros",
-    "descricao": "Aspirador de pó de 70 litros para limpeza e remoção de poeira em obras e ambientes industriais. Possui alta capacidade de sucção e filtragem, garantindo um ambiente limpo e saudável.",
+    "descricao": "<ul><li>Aspirador de Água e Pó Wap Turbo 2002:</li><li>Características:<ul><li>Capacidade: 70L</li><li>Potência do motor: 1600W</li><li>Motor de duplo estágio</li></ul></li><li>Especificação:<ul><li>Tensão: 220V</li><li>Capacidade do Recipiente: 70L</li><li>Corrente Elétrica: 13A / 7A</li><li>Motor: Dois Estágios</li><li>Cor: Laranja e Preto</li><li>Cubagem: 0,4548 m³</li><li>Peso: 35 Kg</li><li>Comprimento: 68 cm</li><li>Largura: 60 cm</li><li>Altura: 101 cm</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "aspirador-de-po-70-litros.jpg"
     },
     {
     "produto": "Enceradeira Industrial",
-    "descricao": "Enceradeira industrial para limpeza e polimento de pisos. Proporciona alto desempenho e eficiência na remoção de sujeira e na aplicação de ceras, mantendo os pisos brilhantes e protegidos.",
+    "descricao": "<ul><li>Enceradeira Industrial 0,75 HP - CL350</li><li>Características:<ul><li>Fabricante: Cleaner</li><li>Escova: 350mm</li><li>Motor elétrico: 0,75 HP</li><li>Tensão: 110V ou 220V</li><li>Capacidade operacional: 1500 m2</li><li>Alto rendimento/baixo consumo</li><li>Maior resistência e durabilidade</li><li>Dispositivo de segurança, através de alavanca de acionamento liga/desliga, oferece maior praticidade e comodidade para o operador</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "enceradeira-industrial.jpg"
     },
     {
     "produto": "Lava Jato L2000",
-    "descricao": "Lava jato L2000 para limpeza de veículos, pisos e superfícies. Possui alta pressão de água e diversos acessórios, proporcionando uma limpeza eficiente e detalhada em diferentes aplicações.",
+    "descricao": "<ul><li>Lavadora de alta pressão Wap L 2000</li><li>Indicada para o uso nas tarefas profissionais, removendo sujeiras dos mais variados tipos de superfícies e objetos.</li><li>Características Técnicas:<ul><li>Tensão: 220V</li><li>Pressão Máxima: 2100 PSI | 2500 PSI</li><li>Vazão Máxima: 640 L/h</li><li>Potência Máxima: 2200 Watts</li><li>Corrente Elétrica: 8A | 5A</li><li>Motor: Indução</li><li>Cubagem (un): 0,3710 m³</li></ul></li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "lava-jato-l2000.jpg"
     },
     {
     "produto": "Lava Jato 3650 Lbs",
-    "descricao": "Lava jato de alta pressão com capacidade de 3650 libras. Ideal para limpeza de áreas externas, equipamentos e maquinários, removendo sujeira, óleo e resíduos com facilidade e rapidez.",
+    "descricao": "<ul><li>Lavadora de Alta Pressão da Linha Maxi modelo HD 10/25 4 Cage trifásica</li><li>Equipada com bomba de alta performance.</li><li>Dimensionada para uso diário e contínuo, com alto rendimento, resistência e baixo desgaste.</li><li>Possui cabeçotes e bielas de latão e pistões de cerâmica.</li><li>Com visor frontal de nível e qualidade de óleo.</li><li>Sistema de sucção com baixa perda e conjunto de vedações de alta performance.</li><li>Tensão: 220 Trifásica.</li><li>Solícita já o Seu Orçamento</li></ul>",
     "imagem": "lava-jato-3650-lbs.jpg"
     },
     {
     "produto": "Gerador a Diesel 26 KVA",
-    "descricao": "Gerador a diesel de 26 KVA para fornecimento de energia em locais sem acesso à rede elétrica. Proporciona energia estável e confiável, adequado para obras, eventos e situações de emergência.",
+    "descricao": "<ul><li>Motor: 45 CV</li><li>Potência Máxima: 26 KVA</li><li>Tensão de Saída: 220v e 380v</li><li>Fase: Monofásica ou Trifásico</li><li>Combustível: Diesel</li><li>Capacidade aproximada: 50 Litros</li><li>Autonomia aproximada: 7 a 10 Litros por hora</li><li>Dimensões: C1500 x L 730 x A 2000mm</li></ul>",
     "imagem": "gerador-a-diesel-26-kva.jpg"
     },
     {
     "produto": "Gerador a Diesel 50 KVA Cabinado",
-    "descricao": "Gerador a diesel de 50 KVA, com cabine de proteção acústica para redução de ruídos. Ideal para locais sensíveis ao barulho, proporcionando energia contínua e segura em diversas aplicações.",
+    "descricao": "<ul><li>Potência Máxima: 50 KVA</li><li>Tensão de Saída: 220v e 380v</li><li>Fase: Monofásica ou Trifásica</li><li>Combustível: Diesel</li><li>Capacidade aproximada do Tanque: 200 Litros</li><li>Autonomia aproximada: 10 a 14 Litros por hora</li><li>Dimensões: C1920 x L1200 x A 1400mm</li><li>Peso: 2 Ton.</li></ul>",
     "imagem": "gerador-a-diesel-50-kva-cabinado.jpg"
     },
     {
     "produto": "Gerador a Diesel 110 KVA Cabinado",
-    "descricao": "Gerador a diesel de 110 KVA, com cabine de proteção acústica para redução de ruídos. Garante fornecimento de energia confiável em locais onde o silêncio é essencial, como eventos e hospitais.",
+    "descricao": "<ul><li>Potência Máxima: 110 KVA</li><li>Tensão de Saída: 220v e 380v</li><li>Fase: Monofásica ou Trifásica</li><li>Combustível: Diesel</li><li>Capacidade aproximada do Tanque: 350 Litros</li><li>Autonomia aproximada: 15 a 20 Litros por hora</li><li>Dimensões: C2400 x L1550 x A1100mm</li><li>Peso: 2 Ton.</li></ul>",
     "imagem": "gerador-a-diesel-110-kva-cabinado.jpg"
     },
     {
     "produto": "Gerador a Gasolina 7 KVA",
-    "descricao": "Gerador a gasolina de 7 KVA para fornecimento de energia em locais remotos ou emergenciais. Portátil e versátil, oferece autonomia e praticidade em situações onde a energia elétrica não está disponível.",
+    "descricao": "<ul><li>Potência Máxima: 7 KVA</li><li>Tensão de Saída: 110v e 220v</li><li>Fase: Monofásica</li><li>Combustível: Gasolina</li><li>Capacidade aproximada do Tanque: 25 Litros</li><li>Autonomia aproximada: 8 Litros por hora</li><li>Dimensões: C680 x L540 x A550mm</li><li>Peso: 90kg.</li></ul>",
     "imagem": "gerador-a-gasolina-7-kva.jpg"
     },
     {
     "produto": "Gerador a Gasolina 10 KVA",
-    "descricao": "Gerador a gasolina de 10 KVA para fornecimento de energia temporária em obras, eventos e situações de emergência. Garante energia confiável e potência suficiente para diferentes demandas.",
+    "descricao": "<ul><li>Motor: 20 CV</li><li>Potência Máxima: 10 KVA</li><li>Tensão de Saída: 110v e 220v</li><li>Fase: Monofásica</li><li>Combustível: Gasolina</li><li>Capacidade aproximada do Tanque: 25 Litros</li><li>Autonomia aproximada: 8 Litros por hora</li><li>Dimensões: C920 x L600 x A650mm</li><li>Peso: 200kg.</li></ul>",
     "imagem": "gerador-a-gasolina-10-kva.jpg"
     },
     {
     "produto": "Gerador a Gasolina 5,5 KVA",
-    "descricao": "Gerador a gasolina de 5,5 KVA para fornecimento de energia portátil em locais sem acesso à rede elétrica. Compacto e eficiente, é ideal para atividades ao ar livre, acampamentos e pequenas obras.",
+    "descricao": "<ul><li>Motor: 13 CV</li><li>Potência Máxima: 10 KVA</li><li>Tensão de Saída: 110v e 220v</li><li>Fase: Monofásica</li><li>Combustível: Gasolina</li><li>Capacidade aproximada do Tanque: 25 Litros</li><li>Autonomia aproximada: 8 Litros por hora</li><li>Dimensões: C680 x L540 x A550mm</li><li>Peso: 80kg.</li></ul>",
     "imagem": "gerador-a-gasolina-5-5-kva.jpg"
     }
   ]
