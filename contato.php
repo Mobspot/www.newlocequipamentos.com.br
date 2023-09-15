@@ -65,7 +65,7 @@
     <a href="https://www.instagram.com/p/CC5mnYllBX7/" target="_blank">
       <img src="assets/insta.png">
     </a>
-    <a href="mailto:contato@newlocequipamentos.com.br?subject=Contato Site&body=Olá, gostaria de um orçamento para...">
+    <a href="mailto:gerencia@newlocequipamentos.com.br?subject=Contato Site&body=Olá, gostaria de um orçamento para...">
       <img src="assets/email.png">
     </a>
     <a href="https://api.whatsapp.com/send?phone=5511981349241" target="_blank">
